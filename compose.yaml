@@ -1,11 +1,9 @@
-# Canonical deploy file — point your panel (Dokploy/Coolify/Portainer) at this
-# repo and use this compose path. Build context is the repo root, so the
-# Dockerfile can copy PPG-Spot-Finder.html.
+# PPG Spot Finder — deploy no Hostinger Docker Manager (Traefik em host network).
+# O Traefik descobre este serviço pelos labels abaixo e publica em:
+#   https://ppg.srv1742234.hstgr.cloud   (certificado Let's Encrypt automático)
 #
-# After first deploy: attach your domain to this service on port 80 and enable
-# HTTPS in the panel (Traefik + Let's Encrypt). If your setup has no auto-domain
-# UI and needs explicit Traefik labels, tell me your Traefik network + cert
-# resolver and I'll add them here.
+# Atualizar o site: rode os scripts de build, faça commit e push — a GitHub
+# Action reconstrói a imagem e redeploya.
 
 services:
   ppg-spot-finder:
@@ -14,7 +12,11 @@ services:
       dockerfile: deploy/Dockerfile
     image: ppg-spot-finder:latest
     restart: unless-stopped
-    ports:
-      - "8085:80"   # teste: abra http://<IP-do-VPS>:8085
-    # expose:
-    #   - "80"      # use isto (em vez de ports) quando tiver domínio + Traefik
+    expose:
+      - "80"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.ppg-spot-finder.entrypoints=websecure"
+      - "traefik.http.routers.ppg-spot-finder.rule=Host(`ppg.srv1742234.hstgr.cloud`)"
+      - "traefik.http.routers.ppg-spot-finder.tls.certresolver=letsencrypt"
+      - "traefik.http.services.ppg-spot-finder.loadbalancer.server.port=80"
