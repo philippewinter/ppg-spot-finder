@@ -14,5 +14,7 @@ services:
       dockerfile: deploy/Dockerfile
     image: ppg-spot-finder:latest
     restart: unless-stopped
-    expose:
-      - "80"   # internal; the panel's Traefik proxy routes to this
+    ports:
+      - "8085:80"   # teste: abra http://<IP-do-VPS>:8085
+    # expose:
+    #   - "80"      # use isto (em vez de ports) quando tiver domínio + Traefik
