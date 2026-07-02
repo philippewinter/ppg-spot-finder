@@ -1,0 +1,18 @@
+# Canonical deploy file — point your panel (Dokploy/Coolify/Portainer) at this
+# repo and use this compose path. Build context is the repo root, so the
+# Dockerfile can copy PPG-Spot-Finder.html.
+#
+# After first deploy: attach your domain to this service on port 80 and enable
+# HTTPS in the panel (Traefik + Let's Encrypt). If your setup has no auto-domain
+# UI and needs explicit Traefik labels, tell me your Traefik network + cert
+# resolver and I'll add them here.
+
+services:
+  ppg-spot-finder:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile
+    image: ppg-spot-finder:latest
+    restart: unless-stopped
+    expose:
+      - "80"   # internal; the panel's Traefik proxy routes to this

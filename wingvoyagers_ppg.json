@@ -1,0 +1,4286 @@
+[
+ {
+  "name": "Adventure Réunion Paramoteur",
+  "lat": -21.11206,
+  "lon": 55.2617,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-fm97405",
+  "access": "prior authorization",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: FM97405. BASULM classification: Base Paramoteurs Libre Ouvert "
+ },
+ {
+  "name": "Aix en Provence Paramoteur",
+  "lat": 43.68221,
+  "lon": 5.41281,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf1356",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF1356. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Vesly",
+  "lat": 49.23385,
+  "lon": 1.63081,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf2758",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF2758. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Lake Wales Municipal Airport",
+  "lat": 27.89293,
+  "lon": -81.62272,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lake-wales-municipal-airport",
+  "access": "PPG-friendly",
+  "notes": "Public airport. The airport manager can provide gate access to the PPG field across the runways. Must stay 500 feet above the cow field south of the airport."
+ },
+ {
+  "name": "Caddo Mills Municipal Airport (7F3)",
+  "lat": 33.03927,
+  "lon": -96.24076,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/caddo-mills-municipal-airport-7f3",
+  "access": "PPG-friendly",
+  "notes": "Active airport that is PPG-friendly. Pay close attention to air traffic and clear the pattern after takeoff when possible."
+ },
+ {
+  "name": "Texas Wind Riders",
+  "lat": 33.08376,
+  "lon": -96.3344,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/texas-wind-riders",
+  "access": "club/contract",
+  "notes": "Home field for Texas Wind Riders. North Texas paramotor community field; coordinate with the club before flying. https://www.texaswindriders.com/"
+ },
+ {
+  "name": "Le gros saule",
+  "lat": 49.88378,
+  "lon": 4.21352,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf0260",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF0260. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Arvert",
+  "lat": 45.74662,
+  "lon": -1.09709,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf1757",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF1757. BASULM classification: Base Paramoteurs Réglementé Ave"
+ },
+ {
+  "name": "Champis 07",
+  "lat": 44.94113,
+  "lon": 4.76184,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf0755",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF0755. BASULM classification: Base Paramoteurs accès limité A"
+ },
+ {
+  "name": "Les Ailes d'Horus",
+  "lat": 48.49221,
+  "lon": 1.76318,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf2859",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF2859. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Vers-Pont-du-Gard",
+  "lat": 43.95929,
+  "lon": 4.50978,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3055",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3055. BASULM classification: Base Paramoteurs Réglementé Ave"
+ },
+ {
+  "name": "FRANQUEVIELLE",
+  "lat": 43.13298,
+  "lon": 0.50655,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3179",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3179. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Le Grand Chêne",
+  "lat": 48.34025,
+  "lon": -3.71478,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf2925",
+  "access": "prior authorization",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF2925. BASULM classification: Base Paramoteurs Libre Ouvert a"
+ },
+ {
+  "name": "Gallargues",
+  "lat": 43.71896,
+  "lon": 4.15582,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3056",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3056. BASULM classification: Base Paramoteurs Réglementé Ave"
+ },
+ {
+  "name": "La Palenderie",
+  "lat": 47.6279,
+  "lon": 0.62683,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3732",
+  "access": "prior authorization",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3732. BASULM classification: Base Paramoteurs Libre Ouvert a"
+ },
+ {
+  "name": "Timlou paramoteur",
+  "lat": 47.43063,
+  "lon": 0.25575,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3770",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3770. BASULM classification: Base Paramoteurs Réglementé Ave"
+ },
+ {
+  "name": "Hippolytaine",
+  "lat": 47.0593,
+  "lon": 1.14344,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3733",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3733. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Perdido Key (Escambia) municipal beaches",
+  "lat": 30.2919,
+  "lon": -87.4365,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/perdido-key-escambia-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Pensacola Beach (Santa Rosa Island) corridor",
+  "lat": 30.3322,
+  "lon": -87.1369,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pensacola-beach-santa-rosa-island-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Navarre Beach municipal corridor",
+  "lat": 30.3791,
+  "lon": -86.8651,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/navarre-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Okaloosa Island (Fort Walton) municipal beaches",
+  "lat": 30.3956,
+  "lon": -86.5973,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/okaloosa-island-fort-walton-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Destin municipal beaches",
+  "lat": 30.389,
+  "lon": -86.473,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/destin-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Panama City Beach municipal beaches",
+  "lat": 30.1765,
+  "lon": -85.8055,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/panama-city-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Mexico Beach municipal beaches",
+  "lat": 29.9495,
+  "lon": -85.417,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/mexico-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "La Canté",
+  "lat": 47.01098,
+  "lon": 0.67104,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3767",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3767. BASULM classification: Base Paramoteurs Privé Avec Res"
+ },
+ {
+  "name": "Base paramoteur Assieu",
+  "lat": 45.40216,
+  "lon": 4.84123,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf3873",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF3873. BASULM classification: Base Paramoteurs Privé Avec Res"
+ },
+ {
+  "name": "Tartas",
+  "lat": 43.82972,
+  "lon": -0.76306,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf4053",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF4053. BASULM classification: Base Paramoteurs accès limité A"
+ },
+ {
+  "name": "Solib'Ailes",
+  "lat": 47.77749,
+  "lon": -0.51414,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf4959",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF4959. BASULM classification: Base Paramoteurs Privé Avec Res"
+ },
+ {
+  "name": "Reims Concept ULM",
+  "lat": 49.2046,
+  "lon": 3.73336,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf5124",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF5124. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Laloeuf",
+  "lat": 48.46346,
+  "lon": 6.02417,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf5454",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF5454. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Courant d'ailes",
+  "lat": 47.57808,
+  "lon": -2.64915,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf5657",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF5657. BASULM classification: Base Paramoteurs Privé Avec Res"
+ },
+ {
+  "name": "Schell Creek Valley outer benches",
+  "lat": 39.469,
+  "lon": -114.745,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/schell-creek-valley-outer-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Eureka Diamond Valley basin flats",
+  "lat": 39.709,
+  "lon": -115.961,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/eureka-diamond-valley-basin-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Austin Reese River Valley benches",
+  "lat": 39.431,
+  "lon": -117.074,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/austin-reese-river-valley-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Tonopah Cactus Flat benches",
+  "lat": 38.034,
+  "lon": -116.072,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tonopah-cactus-flat-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Hawthorne Alkali Lake flats",
+  "lat": 38.623,
+  "lon": -118.704,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hawthorne-alkali-lake-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Smith Valley Wellington benches",
+  "lat": 38.77,
+  "lon": -119.383,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/smith-valley-wellington-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "JO'AILES ULM",
+  "lat": 48.88842,
+  "lon": 7.68608,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf6759",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF6759. BASULM classification: Base Paramoteurs Privé Avec Res"
+ },
+ {
+  "name": "Saint Pée sur Nivelle",
+  "lat": 43.339,
+  "lon": -1.52945,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf6457",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF6457. BASULM classification: Base Paramoteurs accès limité A"
+ },
+ {
+  "name": "Saint-Léonard-des-Bois",
+  "lat": 48.36439,
+  "lon": -0.05936,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf7262",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF7262. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Adventure Paramoteur Alsace",
+  "lat": 48.70916,
+  "lon": 7.73722,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf6758",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF6758. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Alvord Desert dry lake playa",
+  "lat": 42.5335,
+  "lon": -118.556,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/alvord-desert-dry-lake-playa-05e97c",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/playa; check closures and protected habitat; be self-sufficient; watch dust devils and powerlines."
+ },
+ {
+  "name": "Summer Lake playa north flats",
+  "lat": 42.9875,
+  "lon": -120.7776,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/summer-lake-playa-north-flats-913eb3",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/playa; check closures and protected habitat; be self-sufficient; watch dust devils and powerlines."
+ },
+ {
+  "name": "Christmas Valley Sand Dunes OHV area",
+  "lat": 43.3579,
+  "lon": -120.5608,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/christmas-valley-sand-dunes-ohv-area-619427",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/playa; check closures and protected habitat; be self-sufficient; watch dust devils and powerlines."
+ },
+ {
+  "name": "North Myrtle Beach Cherry Grove municipal corridor",
+  "lat": 33.8277,
+  "lon": -78.6225,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-myrtle-beach-cherry-grove-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "North Myrtle Beach Ocean Drive municipal corridor",
+  "lat": 33.8234,
+  "lon": -78.68,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-myrtle-beach-ocean-drive-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "North Myrtle Beach Crescent/Atlantic Beach municipal corridor",
+  "lat": 33.7933,
+  "lon": -78.7308,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-myrtle-beach-crescentatlantic-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Myrtle Beach central municipal corridor",
+  "lat": 33.6954,
+  "lon": -78.8781,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/myrtle-beach-central-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Myrtle Beach south municipal corridor",
+  "lat": 33.6626,
+  "lon": -78.9193,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/myrtle-beach-south-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Surfside Beach municipal corridor",
+  "lat": 33.6068,
+  "lon": -78.9737,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/surfside-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Garden City Beach municipal corridor",
+  "lat": 33.581,
+  "lon": -79.0065,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/garden-city-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Litchfield Beach municipal corridor",
+  "lat": 33.4832,
+  "lon": -79.0856,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/litchfield-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Pawleys Island municipal beach corridor",
+  "lat": 33.4284,
+  "lon": -79.1217,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pawleys-island-municipal-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Voisines",
+  "lat": 48.26528,
+  "lon": 3.41184,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf8954",
+  "access": "prior authorization",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF8954. BASULM classification: Base Paramoteurs Libre Ouvert a"
+ },
+ {
+  "name": "Imperial Sand Dunes",
+  "lat": 32.97321,
+  "lon": -115.17314,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/imperial-sand-dunes",
+  "access": "club/contract",
+  "notes": "BLM ISDRA; seasonal permit required; huge dune complex-mind TFRs/wildlife closures."
+ },
+ {
+  "name": "El Mirage Dry Lake",
+  "lat": 34.6422,
+  "lon": -117.5898,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/el-mirage-dry-lake",
+  "access": "club/contract",
+  "notes": "BLM OHV area; day-use pass required; wide open lakebed flying."
+ },
+ {
+  "name": "Lucerne Dry Lake",
+  "lat": 34.50417,
+  "lon": -116.9542,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lucerne-dry-lake",
+  "access": "PPG-friendly",
+  "notes": "Mojave dry lake; common PPG training area; watch winds/dust devils."
+ },
+ {
+  "name": "Soggy Dry Lake",
+  "lat": 34.45261,
+  "lon": -116.69035,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/soggy-dry-lake",
+  "access": "PPG-friendly",
+  "notes": "Open desert lakebed near Johnson Valley OHV; wide staging area."
+ },
+ {
+  "name": "Ocotillo Wells SVRA",
+  "lat": 33.1645,
+  "lon": -116.1035,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocotillo-wells-svra",
+  "access": "PPG-friendly",
+  "notes": "State OHV park east of Borrego; many open staging zones; avoid busy weekends."
+ },
+ {
+  "name": "Plaster City OHV",
+  "lat": 32.81833,
+  "lon": -115.85583,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/plaster-city-ohv",
+  "access": "PPG-friendly",
+  "notes": "BLM OHV open area west of El Centro; mind military zones & signage."
+ },
+ {
+  "name": "Oceano Dunes SVRA",
+  "lat": 35.07566,
+  "lon": -120.62924,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/oceano-dunes-svra",
+  "access": "club/contract",
+  "notes": "State OHV beach/dunes; access varies with tides & closures; follow ranger instructions."
+ },
+ {
+  "name": "Crystal Beach (Bolivar Peninsula) municipal beaches",
+  "lat": 29.448,
+  "lon": -94.635,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/crystal-beach-bolivar-peninsula-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Gilchrist/RollOver Pass corridor",
+  "lat": 29.5132,
+  "lon": -94.5083,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gilchristrollover-pass-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Galveston West Beach municipal corridor",
+  "lat": 29.196,
+  "lon": -94.972,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/galveston-west-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Galveston East Beach municipal corridor",
+  "lat": 29.3106,
+  "lon": -94.7442,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/galveston-east-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "San Luis Pass vicinity (beach corridor, strong currents)",
+  "lat": 29.073,
+  "lon": -95.128,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-luis-pass-vicinity-beach-corridor-strong-currents",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; dangerous currents/winds; verify rules; avoid crowds."
+ },
+ {
+  "name": "Surfside Beach municipal beaches",
+  "lat": 28.949,
+  "lon": -95.289,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/surfside-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Active PPG corridor/schools; observe ordinances; sunrise/sunset windows."
+ },
+ {
+  "name": "Quintana/Bryan Beach municipal beaches",
+  "lat": 28.9379,
+  "lon": -95.3167,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/quintanabryan-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Sargent Beach municipal beaches",
+  "lat": 28.774,
+  "lon": -95.5593,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sargent-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Matagorda Beach (Matagorda County) municipal",
+  "lat": 28.5972,
+  "lon": -95.9803,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/matagorda-beach-matagorda-county-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Port O'Connor / Matagorda Island shoreline (municipal access points)",
+  "lat": 28.4484,
+  "lon": -96.3986,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/port-oconnor-matagorda-island-shoreline-municipal-access-points",
+  "access": "PPG-friendly",
+  "notes": "Remote shoreline; verify access/ordinances; avoid wildlife areas."
+ },
+ {
+  "name": "Lighthouse Beach (Port Lavaca) municipal",
+  "lat": 28.6128,
+  "lon": -96.6122,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lighthouse-beach-port-lavaca-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Fulton Beach shoreline corridor",
+  "lat": 28.0634,
+  "lon": -97.0364,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fulton-beach-shoreline-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Port Aransas municipal beaches",
+  "lat": 27.83,
+  "lon": -97.061,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/port-aransas-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "North Padre Island city beaches (Corpus Christi)",
+  "lat": 27.5958,
+  "lon": -97.2273,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-padre-island-city-beaches-corpus-christi",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "South Padre Island city beaches",
+  "lat": 26.13,
+  "lon": -97.171,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/south-padre-island-city-beaches",
+  "access": "PPG-friendly",
+  "notes": "Beach corridor with active PPG scene; observe ordinances; avoid crowds."
+ },
+ {
+  "name": "La Limate",
+  "lat": 43.25882,
+  "lon": 5.88266,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf8363",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF8363. BASULM classification: Base Paramoteurs Privée Ouverte"
+ },
+ {
+  "name": "Boigny Méréville",
+  "lat": 48.3294,
+  "lon": 2.08862,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf9152",
+  "access": "prior authorization",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF9152. BASULM classification: Base Paramoteurs Libre Ouvert a"
+ },
+ {
+  "name": "Whitecap Beach â€” Corpus Christi",
+  "lat": 27.5812,
+  "lon": -97.2201,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/whitecap-beach-corpus-christi",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "McGee Beach â€” Corpus Christi Bay",
+  "lat": 27.786,
+  "lon": -97.3965,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/mcgee-beach-corpus-christi-bay",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "North Beach â€” Corpus Christi Bay",
+  "lat": 27.8147,
+  "lon": -97.3927,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-beach-corpus-christi-bay",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "le fond du lary blanc",
+  "lat": 48.35216,
+  "lon": 2.35003,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fr-ppg-basulm-lf9154",
+  "access": "club/contract",
+  "notes": "France paramotor base imported from FFPLUM BASULM public terrain data on 2026-06-04. BASULM code: LF9154. BASULM classification: Base Paramoteurs Privé Avec Res"
+ },
+ {
+  "name": "Buckeye Hills desert flats",
+  "lat": 33.2792,
+  "lon": -112.6713,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/buckeye-hills-desert-flats",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Popular PPG desert launch zone west of Phoenix."
+ },
+ {
+  "name": "Tonopah desert flats",
+  "lat": 33.4795,
+  "lon": -112.9392,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tonopah-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. Large open desert west of Buckeye."
+ },
+ {
+  "name": "Hassayampa desert north of Buckeye",
+  "lat": 33.4466,
+  "lon": -112.6459,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hassayampa-desert-north-of-buckeye",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Avoid riparian/wildlife refuge segments."
+ },
+ {
+  "name": "Gila Bend desert flats Sonoran plain",
+  "lat": 32.9423,
+  "lon": -112.7165,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gila-bend-desert-flats-sonoran-plain",
+  "access": "club/contract",
+  "notes": "Open desert launch corridors; many areas are State Trust with adjacent BLM parcels."
+ },
+ {
+  "name": "Jean Dry Lake playa",
+  "lat": 35.777,
+  "lon": -115.37,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/jean-dry-lake-playa",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Eldorado Dry Lake flats",
+  "lat": 35.897,
+  "lon": -114.868,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/eldorado-dry-lake-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines. Respect land sailing zones."
+ },
+ {
+  "name": "Rainbow Valley desert south of Goodyear",
+  "lat": 33.1437,
+  "lon": -112.2868,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/rainbow-valley-desert-south-of-goodyear",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Quiet desert wash corridors; watch for powerlines."
+ },
+ {
+  "name": "Vulture Mine desert Wickenburg south",
+  "lat": 33.8106,
+  "lon": -112.8121,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/vulture-mine-desert-wickenburg-south",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. Sparse traffic; check TFRs for fire activity."
+ },
+ {
+  "name": "Boulders OHV Area Lake Pleasant region",
+  "lat": 33.976,
+  "lon": -112.205,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/boulders-ohv-area-lake-pleasant-region",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. OHV area with staging lots; fly early/late."
+ },
+ {
+  "name": "Table Mesa OHV Area New River",
+  "lat": 34.0168,
+  "lon": -112.1468,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/table-mesa-ohv-area-new-river",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. OHV corridors along Agua Fria; dust/traffic on weekends."
+ },
+ {
+  "name": "Sycamore Creek OHV Area Four Peaks foothills",
+  "lat": 33.7449,
+  "lon": -111.5978,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sycamore-creek-ohv-area-four-peaks-foothills",
+  "access": "PPG-friendly",
+  "notes": "USFS area; follow forest orders/closures; no special contract unless noted. Popular OHV zone; check fire/closure notices."
+ },
+ {
+  "name": "Bulldog Canyon OHV Tonto NF permit gate",
+  "lat": 33.48,
+  "lon": -111.583,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bulldog-canyon-ohv-tonto-nf-permit-gate",
+  "access": "club/contract",
+  "notes": "USFS gate code permit required; rugged desert with multiple access points."
+ },
+ {
+  "name": "Florence Kelvin Hwy desert Box Canyon OHV",
+  "lat": 33.1107,
+  "lon": -111.1347,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/florence-kelvin-hwy-desert-box-canyon-ohv",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. Scenic canyon; avoid narrow slots; use open flats."
+ },
+ {
+  "name": "Picacho Flats between Eloy and Picacho Peak",
+  "lat": 32.7634,
+  "lon": -111.4074,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/picacho-flats-between-eloy-and-picacho-peak",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Broad desert flats; away from airports and DZs."
+ },
+ {
+  "name": "Queen Valley desert flats east of Gold Canyon",
+  "lat": 33.2965,
+  "lon": -111.2796,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/queen-valley-desert-flats-east-of-gold-canyon",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Sparse desert; mountain rotor on windy days."
+ },
+ {
+  "name": "San Tan Valley state trust parcels east of Hunt Hwy",
+  "lat": 33.1492,
+  "lon": -111.5304,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-tan-valley-state-trust-parcels-east-of-hunt-hwy",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Check parcel maps; suburban encroachment."
+ },
+ {
+  "name": "Roach Dry Lake near Primm",
+  "lat": 35.605,
+  "lon": -115.394,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/roach-dry-lake-near-primm",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Sandy Valley basin desert flats",
+  "lat": 35.815,
+  "lon": -115.631,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sandy-valley-basin-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Nellis Dunes OHV Area outer benches",
+  "lat": 36.278,
+  "lon": -115.023,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/nellis-dunes-ohv-area-outer-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM OHV dunes; heavy vehicle useâ€”fly early/late and coordinate; check closures and noise rules."
+ },
+ {
+  "name": "Logandale Trails OHV Area benches",
+  "lat": 36.528,
+  "lon": -114.466,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/logandale-trails-ohv-area-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines. Coordinate with OHV users."
+ },
+ {
+  "name": "Amargosa Valley Big Dune OHV",
+  "lat": 36.633,
+  "lon": -116.626,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/amargosa-valley-big-dune-ohv",
+  "access": "PPG-friendly",
+  "notes": "BLM OHV dunes; heavy vehicle useâ€”fly early/late and coordinate; check closures and noise rules."
+ },
+ {
+  "name": "Amargosa Desert flats near Lathrop Wells",
+  "lat": 36.648,
+  "lon": -116.405,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/amargosa-desert-flats-near-lathrop-wells",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Searchlight Eldorado Valley south benches",
+  "lat": 35.458,
+  "lon": -114.919,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/searchlight-eldorado-valley-south-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Dry Lake Valley Delamar Dry Lake",
+  "lat": 37.3812,
+  "lon": -115.2011,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/dry-lake-valley-delamar-dry-lake",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines. Remote; self-sufficient operations."
+ },
+ {
+  "name": "Coyote Springs basin desert flats",
+  "lat": 36.875,
+  "lon": -114.931,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/coyote-springs-basin-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Black Rock Desert playa 12 Mile access",
+  "lat": 40.7874,
+  "lon": -119.2123,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/black-rock-desert-playa-12-mile-access",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Black Rock Desert playa 8 Mile access",
+  "lat": 40.7636,
+  "lon": -119.2157,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/black-rock-desert-playa-8-mile-access",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Black Rock Desert north playa",
+  "lat": 41.161,
+  "lon": -119.142,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/black-rock-desert-north-playa",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Smoke Creek Desert playa",
+  "lat": 40.561,
+  "lon": -119.562,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/smoke-creek-desert-playa",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Winnemucca Dry Lake playa",
+  "lat": 40.863,
+  "lon": -119.34,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/winnemucca-dry-lake-playa",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Carson Sink playa flats",
+  "lat": 39.626,
+  "lon": -118.578,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/carson-sink-playa-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Salt Wells Flat OHV area near Fallon",
+  "lat": 39.357,
+  "lon": -118.586,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/salt-wells-flat-ohv-area-near-fallon",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Sand Mountain Recreation Area dunes",
+  "lat": 39.2998,
+  "lon": -118.4022,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sand-mountain-recreation-area-dunes",
+  "access": "PPG-friendly",
+  "notes": "BLM OHV dunes; heavy vehicle useâ€”fly early/late and coordinate; check closures and noise rules."
+ },
+ {
+  "name": "Humboldt River valley benches near Rye Patch",
+  "lat": 40.55,
+  "lon": -118.3,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/humboldt-river-valley-benches-near-rye-patch",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Imlay basalt flats and benches",
+  "lat": 40.649,
+  "lon": -118.103,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/imlay-basalt-flats-and-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Battle Mountain Shoshone Flats benches",
+  "lat": 40.588,
+  "lon": -116.934,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/battle-mountain-shoshone-flats-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Carlin Carlin Canyon benches",
+  "lat": 40.719,
+  "lon": -116.015,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/carlin-carlin-canyon-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Wells Metropolis ghost town flats",
+  "lat": 41.246,
+  "lon": -115.037,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/wells-metropolis-ghost-town-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Ely Steptoe Valley dry lake benches",
+  "lat": 39.338,
+  "lon": -114.876,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ely-steptoe-valley-dry-lake-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Avra Valley desert flats west of Tucson",
+  "lat": 32.2875,
+  "lon": -111.3017,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/avra-valley-desert-flats-west-of-tucson",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. Launch from remote flats; avoid refuge lands."
+ },
+ {
+  "name": "Three Points Altar Valley desert",
+  "lat": 31.8189,
+  "lon": -111.3184,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/three-points-altar-valley-desert",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Vast desert; verify property lines; avoid restricted areas."
+ },
+ {
+  "name": "Redington Pass OHV corridors Catalina back side",
+  "lat": 32.2775,
+  "lon": -110.6314,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/redington-pass-ohv-corridors-catalina-back-side",
+  "access": "PPG-friendly",
+  "notes": "USFS area; follow forest orders/closures; no special contract unless noted. Busy OHV area; pick wide pull-outs and calm periods."
+ },
+ {
+  "name": "Santa Cruz Flats Eloy Casa Grande desert",
+  "lat": 32.7816,
+  "lon": -111.5694,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/santa-cruz-flats-eloy-casa-grande-desert",
+  "access": "club/contract",
+  "notes": "Arizona State Trust Land: recreation permit required for access/parking. Classic flatland; stay clear of skydiving and airports."
+ },
+ {
+  "name": "Willcox Playa dry lake bed seasonal",
+  "lat": 32.0906,
+  "lon": -109.9304,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/willcox-playa-dry-lake-bed-seasonal",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures. Seasonal dry lake; avoid when wet; dust devils common."
+ },
+ {
+  "name": "Lake Maxinkuckee municipal shoreline",
+  "lat": 41.2146,
+  "lon": -86.4067,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lake-maxinkuckee-municipal-shoreline",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Winona Interurban Trail greenway fields",
+  "lat": 41.229,
+  "lon": -85.84,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/winona-interurban-trail-greenway-fields",
+  "access": "PPG-friendly",
+  "notes": "Open greenway corridors; verify local rules; avoid pedestrians."
+ },
+ {
+  "name": "Cape San Blas / Indian Pass (Gulf County) beaches",
+  "lat": 29.67,
+  "lon": -85.342,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cape-san-blas-indian-pass-gulf-county-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "St. George Island municipal beaches (not state park)",
+  "lat": 29.6589,
+  "lon": -84.88,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/st-george-island-municipal-beaches-not-state-park",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Carrabelle Beach (Franklin County)",
+  "lat": 29.8248,
+  "lon": -84.6643,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/carrabelle-beach-franklin-county",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Alligator Point municipal beaches",
+  "lat": 29.9069,
+  "lon": -84.391,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/alligator-point-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Cedar Key public beach (Levy County)",
+  "lat": 29.1366,
+  "lon": -83.032,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cedar-key-public-beach-levy-county",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Horseshoe Beach public shoreline",
+  "lat": 29.4445,
+  "lon": -83.2953,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/horseshoe-beach-public-shoreline",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Steinhatchee public shoreline (Taylor County)",
+  "lat": 29.6691,
+  "lon": -83.3922,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/steinhatchee-public-shoreline-taylor-county",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Keaton Beach public shoreline",
+  "lat": 29.8268,
+  "lon": -83.5941,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/keaton-beach-public-shoreline",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Fernandina Beach (Amelia Island) municipal beaches",
+  "lat": 30.6636,
+  "lon": -81.4386,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fernandina-beach-amelia-island-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "American Beach municipal beaches",
+  "lat": 30.5761,
+  "lon": -81.4378,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/american-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Atlantic Beach municipal beaches",
+  "lat": 30.3341,
+  "lon": -81.3985,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/atlantic-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Neptune Beach municipal beaches",
+  "lat": 30.3116,
+  "lon": -81.4053,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/neptune-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Jacksonville Beach municipal beaches",
+  "lat": 30.2872,
+  "lon": -81.3928,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/jacksonville-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Ponte Vedra Beach municipal beaches",
+  "lat": 30.1926,
+  "lon": -81.3708,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ponte-vedra-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Vilano Beach municipal beaches",
+  "lat": 29.9389,
+  "lon": -81.3057,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/vilano-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "St. Augustine Beach municipal beaches",
+  "lat": 29.8567,
+  "lon": -81.2687,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/st-augustine-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Crescent Beach / Summer Haven municipal beaches",
+  "lat": 29.7445,
+  "lon": -81.2507,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/crescent-beach-summer-haven-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Flagler Beach municipal corridor",
+  "lat": 29.4741,
+  "lon": -81.125,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/flagler-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Ormond Beach municipal beaches (not state park)",
+  "lat": 29.3123,
+  "lon": -81.0485,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ormond-beach-municipal-beaches-not-state-park",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Daytona Beach / Daytona Beach Shores municipal",
+  "lat": 29.199,
+  "lon": -80.9956,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/daytona-beach-daytona-beach-shores-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "New Smyrna Beach municipal beaches",
+  "lat": 29.025,
+  "lon": -80.925,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/new-smyrna-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Satellite Beach municipal beaches",
+  "lat": 28.1761,
+  "lon": -80.5914,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/satellite-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Indian Harbour Beach municipal beaches",
+  "lat": 28.1491,
+  "lon": -80.5817,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/indian-harbour-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Melbourne Beach municipal beaches",
+  "lat": 28.0689,
+  "lon": -80.5602,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/melbourne-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Indialantic municipal beaches",
+  "lat": 28.0891,
+  "lon": -80.5656,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/indialantic-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Paradise Beach / Seagull Park (Brevard) municipal",
+  "lat": 28.1194,
+  "lon": -80.5786,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/paradise-beach-seagull-park-brevard-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Vero Beach municipal beaches",
+  "lat": 27.6386,
+  "lon": -80.3567,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/vero-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Fort Pierce municipal beaches",
+  "lat": 27.4761,
+  "lon": -80.2963,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fort-pierce-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Jensen Beach / Hutchinson Island municipal",
+  "lat": 27.2542,
+  "lon": -80.2184,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/jensen-beach-hutchinson-island-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Stuart / Bathtub Beach (Martin) municipal",
+  "lat": 27.1971,
+  "lon": -80.1636,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/stuart-bathtub-beach-martin-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Jupiter municipal beaches",
+  "lat": 26.9342,
+  "lon": -80.073,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/jupiter-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Palm Beach Shores / Singer Island municipal beaches",
+  "lat": 26.7788,
+  "lon": -80.0333,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/palm-beach-shores-singer-island-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Palm Beach municipal beaches",
+  "lat": 26.7056,
+  "lon": -80.0331,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/palm-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Lake Worth Beach municipal",
+  "lat": 26.6134,
+  "lon": -80.0393,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lake-worth-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Boynton Beach municipal beaches",
+  "lat": 26.5266,
+  "lon": -80.0479,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/boynton-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Delray Beach municipal beaches",
+  "lat": 26.4615,
+  "lon": -80.063,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/delray-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Boca Raton municipal beaches",
+  "lat": 26.335,
+  "lon": -80.0728,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/boca-raton-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Pompano Beach municipal beaches",
+  "lat": 26.2379,
+  "lon": -80.092,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pompano-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Lauderdale-by-the-Sea municipal beaches",
+  "lat": 26.189,
+  "lon": -80.0972,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lauderdale-by-the-sea-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Fort Lauderdale Beach municipal",
+  "lat": 26.1209,
+  "lon": -80.1067,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fort-lauderdale-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Dania Beach municipal beaches",
+  "lat": 26.0522,
+  "lon": -80.1129,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/dania-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Hollywood Beach / Broadwalk municipal",
+  "lat": 26.0119,
+  "lon": -80.1176,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hollywood-beach-broadwalk-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Hallandale Beach municipal beaches",
+  "lat": 25.985,
+  "lon": -80.1181,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hallandale-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Haulover Beach (Miami-Dade) municipal",
+  "lat": 25.8957,
+  "lon": -80.1207,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/haulover-beach-miami-dade-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Miami Beach / South Beach municipal",
+  "lat": 25.7906,
+  "lon": -80.13,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/miami-beach-south-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Marco Island municipal beaches",
+  "lat": 25.936,
+  "lon": -81.728,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/marco-island-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Naples municipal beaches",
+  "lat": 26.142,
+  "lon": -81.8067,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/naples-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Bonita Beach (Lee County) municipal",
+  "lat": 26.33,
+  "lon": -81.8608,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bonita-beach-lee-county-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Fort Myers Beach municipal beaches",
+  "lat": 26.4529,
+  "lon": -81.9495,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fort-myers-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Sanibel Island municipal beaches (not refuge/state)",
+  "lat": 26.4431,
+  "lon": -82.0906,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sanibel-island-municipal-beaches-not-refugestate",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Captiva Island municipal beaches",
+  "lat": 26.5271,
+  "lon": -82.191,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/captiva-island-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Gasparilla Island / Boca Grande municipal beaches",
+  "lat": 26.743,
+  "lon": -82.2645,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gasparilla-island-boca-grande-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Englewood / Manasota Key municipal beaches",
+  "lat": 26.9341,
+  "lon": -82.3531,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/englewood-manasota-key-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Venice Beach municipal",
+  "lat": 27.0998,
+  "lon": -82.4543,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/venice-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Nokomis Beach municipal",
+  "lat": 27.1236,
+  "lon": -82.4711,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/nokomis-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Siesta Key Beach municipal",
+  "lat": 27.2672,
+  "lon": -82.5559,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/siesta-key-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Lido Beach (Sarasota) municipal",
+  "lat": 27.3185,
+  "lon": -82.5799,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lido-beach-sarasota-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Longboat Key (town beaches)",
+  "lat": 27.3837,
+  "lon": -82.6396,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/longboat-key-town-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Anna Maria Island municipal beaches",
+  "lat": 27.5116,
+  "lon": -82.7192,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/anna-maria-island-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Pass-a-Grille / St. Pete Beach municipal",
+  "lat": 27.6912,
+  "lon": -82.7399,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pass-a-grille-st-pete-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Treasure Island municipal beaches",
+  "lat": 27.7697,
+  "lon": -82.7726,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/treasure-island-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Madeira Beach municipal beaches",
+  "lat": 27.7996,
+  "lon": -82.7946,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/madeira-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Indian Rocks / Indian Shores municipal beaches",
+  "lat": 27.8963,
+  "lon": -82.8472,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/indian-rocks-indian-shores-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Clearwater Beach municipal",
+  "lat": 27.977,
+  "lon": -82.827,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/clearwater-beach-municipal",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify county/town ordinances; fly early/late; avoid crowds/wildlife."
+ },
+ {
+  "name": "Whiting Lakefront Park and Beach",
+  "lat": 41.6816,
+  "lon": -87.4978,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/whiting-lakefront-park-and-beach",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Hammond Lakefront municipal beaches",
+  "lat": 41.7303,
+  "lon": -87.4759,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hammond-lakefront-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "East Chicago Jeorse Park Beach",
+  "lat": 41.6545,
+  "lon": -87.43,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/east-chicago-jeorse-park-beach",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Gary Marquette Park Beach corridor",
+  "lat": 41.6178,
+  "lon": -87.2667,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gary-marquette-park-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Miller Beach municipal corridor",
+  "lat": 41.6036,
+  "lon": -87.2638,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/miller-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Portage Lakefront city beach segment",
+  "lat": 41.6277,
+  "lon": -87.1799,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/portage-lakefront-city-beach-segment",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife. Portions overlap NPS jurisdiction."
+ },
+ {
+  "name": "Ogden Dunes town beach segment",
+  "lat": 41.6275,
+  "lon": -87.1839,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ogden-dunes-town-beach-segment",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife. Portions overlap NPS jurisdiction."
+ },
+ {
+  "name": "Michigan City Washington Park Beach city segment",
+  "lat": 41.7252,
+  "lon": -86.9063,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/michigan-city-washington-park-beach-city-segment",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Cedar Lake municipal shoreline",
+  "lat": 41.3658,
+  "lon": -87.444,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cedar-lake-municipal-shoreline",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Winona Lake municipal shoreline",
+  "lat": 41.2244,
+  "lon": -85.8238,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/winona-lake-municipal-shoreline",
+  "access": "PPG-friendly",
+  "notes": "Municipal lakefront corridor; verify ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Griffy Lake nature preserve perimeter",
+  "lat": 39.2018,
+  "lon": -86.5162,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/griffy-lake-nature-preserve-perimeter",
+  "access": "club/contract",
+  "notes": "Nature preserve sensitivity; if allowed, keep well offshore and quiet."
+ },
+ {
+  "name": "Fayetteville Cape Fear River Trail lawns",
+  "lat": 35.0885,
+  "lon": -78.8573,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fayetteville-cape-fear-river-trail-lawns",
+  "access": "PPG-friendly",
+  "notes": "Greenway lawns; verify city rules; avoid pedestrians."
+ },
+ {
+  "name": "Corolla north beach sector municipal beaches",
+  "lat": 36.4243,
+  "lon": -75.8317,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/corolla-north-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Corolla central beach sector municipal beaches",
+  "lat": 36.3743,
+  "lon": -75.833,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/corolla-central-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Corolla south beach sector municipal beaches",
+  "lat": 36.3238,
+  "lon": -75.8166,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/corolla-south-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Duck north beach sector municipal beaches",
+  "lat": 36.1918,
+  "lon": -75.7503,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/duck-north-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Duck south beach sector municipal beaches",
+  "lat": 36.1458,
+  "lon": -75.7422,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/duck-south-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Southern Shores central beach sector municipal beaches",
+  "lat": 36.1336,
+  "lon": -75.7395,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/southern-shores-central-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Kitty Hawk central beach sector municipal beaches",
+  "lat": 36.0803,
+  "lon": -75.7014,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/kitty-hawk-central-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Kill Devil Hills central beach sector municipal beaches",
+  "lat": 36.017,
+  "lon": -75.6688,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/kill-devil-hills-central-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Nags Head central beach sector municipal beaches",
+  "lat": 35.9527,
+  "lon": -75.6221,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/nags-head-central-beach-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Nags Head south terminal groin area beaches municipal beaches",
+  "lat": 35.905,
+  "lon": -75.5901,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/nags-head-south-terminal-groin-area-beaches-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Indian Beach town beaches",
+  "lat": 34.6869,
+  "lon": -76.9014,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/indian-beach-town-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Salter Path town beaches",
+  "lat": 34.6889,
+  "lon": -76.8553,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/salter-path-town-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Pine Knoll Shores east beaches",
+  "lat": 34.6943,
+  "lon": -76.8104,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pine-knoll-shores-east-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Atlantic Beach Circle area beaches",
+  "lat": 34.6992,
+  "lon": -76.7358,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/atlantic-beach-circle-area-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Fort Macon city-side access beaches",
+  "lat": 34.6947,
+  "lon": -76.6813,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fort-macon-city-side-access-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "North Topsail Beach north sector municipal beaches",
+  "lat": 34.5196,
+  "lon": -77.3565,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-topsail-beach-north-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "North Topsail Beach south sector municipal beaches",
+  "lat": 34.4786,
+  "lon": -77.4255,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/north-topsail-beach-south-sector-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Surf City central sector beaches municipal beaches",
+  "lat": 34.4267,
+  "lon": -77.5453,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/surf-city-central-sector-beaches-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Topsail Beach south point beaches municipal beaches",
+  "lat": 34.3332,
+  "lon": -77.619,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/topsail-beach-south-point-beaches-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Caswell Beach east end beaches",
+  "lat": 33.8972,
+  "lon": -78.0305,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/caswell-beach-east-end-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Oak Island east end beaches",
+  "lat": 33.9068,
+  "lon": -78.0907,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/oak-island-east-end-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Oak Island central sector beaches",
+  "lat": 33.9109,
+  "lon": -78.1384,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/oak-island-central-sector-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Holden Beach east end beaches",
+  "lat": 33.9133,
+  "lon": -78.2808,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/holden-beach-east-end-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Holden Beach west end beaches",
+  "lat": 33.9081,
+  "lon": -78.3177,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/holden-beach-west-end-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Isle Beach west end beaches",
+  "lat": 33.8911,
+  "lon": -78.4736,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-isle-beach-west-end-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Sunset Beach west end beaches",
+  "lat": 33.8669,
+  "lon": -78.5745,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sunset-beach-west-end-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Duck soundside town park shoreline",
+  "lat": 36.1699,
+  "lon": -75.7589,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/duck-soundside-town-park-shoreline",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Kitty Hawk soundside access lawns",
+  "lat": 36.0651,
+  "lon": -75.7194,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/kitty-hawk-soundside-access-lawns",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Kill Devil Hills soundside access lawns",
+  "lat": 36.019,
+  "lon": -75.7058,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/kill-devil-hills-soundside-access-lawns",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Nags Head soundside public access",
+  "lat": 35.9586,
+  "lon": -75.6396,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/nags-head-soundside-public-access",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Wanchese harbor public green areas",
+  "lat": 35.842,
+  "lon": -75.6425,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/wanchese-harbor-public-green-areas",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Hatteras village harbor green space",
+  "lat": 35.2088,
+  "lon": -75.7072,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hatteras-village-harbor-green-space",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Avon soundside public access",
+  "lat": 35.3467,
+  "lon": -75.5087,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/avon-soundside-public-access",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Waves soundside public access",
+  "lat": 35.5748,
+  "lon": -75.4657,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/waves-soundside-public-access",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Salvo soundside public access",
+  "lat": 35.5205,
+  "lon": -75.471,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/salvo-soundside-public-access",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Rodanthe soundside public access",
+  "lat": 35.5945,
+  "lon": -75.4696,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/rodanthe-soundside-public-access",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Frisco soundside public access",
+  "lat": 35.2426,
+  "lon": -75.5975,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/frisco-soundside-public-access",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Ocracoke village waterfront green",
+  "lat": 35.1137,
+  "lon": -75.9751,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocracoke-village-waterfront-green",
+  "access": "PPG-friendly",
+  "notes": "Soundside municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Knolls OHV Area desert flats",
+  "lat": 40.7394,
+  "lon": -113.0107,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/knolls-ohv-area-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Bonneville Salt Flats open playa",
+  "lat": 40.762,
+  "lon": -113.899,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bonneville-salt-flats-open-playa",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Seasonal water/soft spots possible."
+ },
+ {
+  "name": "Stansbury Island east flats",
+  "lat": 40.7339,
+  "lon": -112.4948,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/stansbury-island-east-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Avoid private and wildlife areas."
+ },
+ {
+  "name": "Five Mile Pass OHV Area",
+  "lat": 40.2382,
+  "lon": -112.2062,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/five-mile-pass-ohv-area",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Busy on weekends."
+ },
+ {
+  "name": "Cedar Valley south benches",
+  "lat": 40.224,
+  "lon": -111.982,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cedar-valley-south-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Watch for powerlines."
+ },
+ {
+  "name": "Elberta Slant Road desert",
+  "lat": 39.9605,
+  "lon": -111.9726,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/elberta-slant-road-desert",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Faust Road desert flats",
+  "lat": 40.1823,
+  "lon": -112.351,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/faust-road-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Delle desert flats",
+  "lat": 40.7224,
+  "lon": -112.8927,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/delle-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Horseshoe Springs desert flats",
+  "lat": 40.7192,
+  "lon": -112.7314,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/horseshoe-springs-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Respect sensitive springs."
+ },
+ {
+  "name": "Lucin Sun Tunnels flats",
+  "lat": 41.3036,
+  "lon": -113.8637,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lucin-sun-tunnels-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Remote; self sufficient."
+ },
+ {
+  "name": "Logan Cache Valley west desert",
+  "lat": 41.75,
+  "lon": -111.999,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/logan-cache-valley-west-desert",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Wellsville foothill benches west",
+  "lat": 41.612,
+  "lon": -112,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/wellsville-foothill-benches-west",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Farms nearbyâ€”mind noise."
+ },
+ {
+  "name": "Box Elder County open benches",
+  "lat": 41.75,
+  "lon": -112.3,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/box-elder-county-open-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "San Rafael Swell Temple Mountain flats",
+  "lat": 38.6655,
+  "lon": -110.6625,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-rafael-swell-temple-mountain-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Wild Horse Road desert flats",
+  "lat": 38.572,
+  "lon": -110.706,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/wild-horse-road-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Outside state park boundaries."
+ },
+ {
+  "name": "Hanksville Cane Wash benches",
+  "lat": 38.346,
+  "lon": -110.696,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hanksville-cane-wash-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Factory Butte benches",
+  "lat": 38.4874,
+  "lon": -110.8137,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/factory-butte-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Check any seasonal closures."
+ },
+ {
+  "name": "Goblin Valley BLM approach flats",
+  "lat": 38.5572,
+  "lon": -110.7075,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/goblin-valley-blm-approach-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Outside park boundary."
+ },
+ {
+  "name": "Moab Behind the Rocks flats",
+  "lat": 38.4615,
+  "lon": -109.6007,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moab-behind-the-rocks-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Heavy recreationâ€”fly early."
+ },
+ {
+  "name": "Moab Klondike Bluffs flats",
+  "lat": 38.7774,
+  "lon": -109.7174,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moab-klondike-bluffs-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Bartlett Wash benches",
+  "lat": 38.7454,
+  "lon": -109.7464,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bartlett-wash-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Sego Canyon flats",
+  "lat": 39.6339,
+  "lon": -109.711,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sego-canyon-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Blanding Cedar Mesa sand flats",
+  "lat": 37.3422,
+  "lon": -109.8036,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/blanding-cedar-mesa-sand-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Monticello Lisbon Valley benches",
+  "lat": 38.11,
+  "lon": -109.321,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/monticello-lisbon-valley-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Warner Valley desert flats",
+  "lat": 37.087,
+  "lon": -113.427,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/warner-valley-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Leeds Silver Reef benches",
+  "lat": 37.2357,
+  "lon": -113.3693,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/leeds-silver-reef-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Cedar City Three Peaks OHV flats",
+  "lat": 37.7501,
+  "lon": -113.1646,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cedar-city-three-peaks-ohv-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Kanab coral pink benches outside park",
+  "lat": 37.0623,
+  "lon": -112.805,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/kanab-coral-pink-benches-outside-park",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Outside state park boundary."
+ },
+ {
+  "name": "Big Water Wahweap benches",
+  "lat": 37.0692,
+  "lon": -111.6545,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/big-water-wahweap-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas."
+ },
+ {
+  "name": "Sevier Lake dry playa corridor",
+  "lat": 38.6297,
+  "lon": -113.062,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sevier-lake-dry-playa-corridor",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas. Seasonal water/soft spots possible."
+ },
+ {
+  "name": "Playas de Tijuana municipal beaches north sector",
+  "lat": 32.5337,
+  "lon": -117.1236,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playas-de-tijuana-municipal-beaches-north-sector",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Playas de Tijuana municipal beaches south sector",
+  "lat": 32.4966,
+  "lon": -117.1266,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playas-de-tijuana-municipal-beaches-south-sector",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Rosarito municipal beaches centro",
+  "lat": 32.3324,
+  "lon": -117.0555,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/rosarito-municipal-beaches-centro",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Rosarito beaches south sector Popotla",
+  "lat": 32.2759,
+  "lon": -116.9898,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/rosarito-beaches-south-sector-popotla",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "La Mision river mouth beach",
+  "lat": 32.0929,
+  "lon": -116.8684,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/la-mision-river-mouth-beach",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "K38 surf beach corridor",
+  "lat": 32.2574,
+  "lon": -116.9767,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/k38-surf-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "K55 La Fonda beach corridor",
+  "lat": 32.0978,
+  "lon": -116.8708,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/k55-la-fonda-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Playa Saldamando bluffs access beach",
+  "lat": 31.9763,
+  "lon": -116.7737,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playa-saldamando-bluffs-access-beach",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Ensenada Playa Hermosa municipal corridor",
+  "lat": 31.8304,
+  "lon": -116.6221,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ensenada-playa-hermosa-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "San Miguel beach corridor",
+  "lat": 31.9026,
+  "lon": -116.7419,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-miguel-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Punta Banda north shore beaches",
+  "lat": 31.7313,
+  "lon": -116.6929,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/punta-banda-north-shore-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Punta Banda south dunes and beach",
+  "lat": 31.6756,
+  "lon": -116.6818,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/punta-banda-south-dunes-and-beach",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Estero Beach corridor",
+  "lat": 31.7449,
+  "lon": -116.6099,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/estero-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Santo Tomas Bocana beach",
+  "lat": 31.5692,
+  "lon": -116.4213,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/santo-tomas-bocana-beach",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Erendira rocky point beach windows",
+  "lat": 31.3393,
+  "lon": -116.4683,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/erendira-rocky-point-beach-windows",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Punta Colonet coastal corridor",
+  "lat": 31.087,
+  "lon": -116.318,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/punta-colonet-coastal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "San Quintin Bahia San Quintin north beaches",
+  "lat": 30.5462,
+  "lon": -115.9485,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-quintin-bahia-san-quintin-north-beaches",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "San Quintin La Chorera beach",
+  "lat": 30.4305,
+  "lon": -115.9623,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-quintin-la-chorera-beach",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "San Quintin Playa Santa Maria corridor",
+  "lat": 30.3044,
+  "lon": -115.8956,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-quintin-playa-santa-maria-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Punta Baja beach corridor",
+  "lat": 29.9569,
+  "lon": -115.7793,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/punta-baja-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "El Socorro beach corridor",
+  "lat": 29.8247,
+  "lon": -115.6368,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/el-socorro-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Punta San Carlos beach corridor",
+  "lat": 29.6019,
+  "lon": -115.2045,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/punta-san-carlos-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "San Felipe malecon municipal beach",
+  "lat": 31.0244,
+  "lon": -114.8465,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-felipe-malecon-municipal-beach",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "San Felipe Playas de San Felipe south sector",
+  "lat": 31.0045,
+  "lon": -114.8357,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/san-felipe-playas-de-san-felipe-south-sector",
+  "access": "PPG-friendly",
+  "notes": "Municipal or public beach corridor; verify local ordinances and ZOFEMAT rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Valle de los Gigantes coastal corridor",
+  "lat": 30.7507,
+  "lon": -114.6256,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/valle-de-los-gigantes-coastal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Bahia San Luis Gonzaga beach corridor",
+  "lat": 29.7887,
+  "lon": -114.3998,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bahia-san-luis-gonzaga-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Tecate Parque Miguel Hidalgo lawns",
+  "lat": 32.5677,
+  "lon": -116.6264,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tecate-parque-miguel-hidalgo-lawns",
+  "access": "club/contract",
+  "notes": "Town plaza lawns; not ideal; if used, coordinate."
+ },
+ {
+  "name": "Playa San Ramon corridor",
+  "lat": 30.1806,
+  "lon": -115.8057,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playa-san-ramon-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Playa Santa Rosaliita corridor",
+  "lat": 28.6667,
+  "lon": -114.1167,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playa-santa-rosaliita-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Playa Punta Canoas corridor",
+  "lat": 29.7682,
+  "lon": -115.3707,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playa-punta-canoas-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Playa El Marron corridor",
+  "lat": 30.8123,
+  "lon": -116.0215,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/playa-el-marron-corridor",
+  "access": "PPG-friendly",
+  "notes": "Remote beach or ejido shoreline; seek local permission; avoid nesting areas; respect fishermen and ranch access."
+ },
+ {
+  "name": "Tybee Island south beach municipal corridor",
+  "lat": 31.9889,
+  "lon": -80.8487,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tybee-island-south-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Tybee Island north beach municipal corridor",
+  "lat": 32.0226,
+  "lon": -80.8472,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tybee-island-north-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early or late; avoid crowds and wildlife. Fort and NPS units nearby; observe boundaries."
+ },
+ {
+  "name": "St Simons Island East Beach center sector",
+  "lat": 31.1393,
+  "lon": -81.3686,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/st-simons-island-east-beach-center-sector",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "St Simons Island East Beach Massengale Park sector",
+  "lat": 31.1399,
+  "lon": -81.3548,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/st-simons-island-east-beach-massengale-park-sector",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ogeechee River sandbar corridors rural segments",
+  "lat": 32.36,
+  "lon": -81.623,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ogeechee-river-sandbar-corridors-rural-segments",
+  "access": "PPG-friendly",
+  "notes": "Remote river sandbars and farm edges; verify access and avoid private property."
+ },
+ {
+  "name": "Seaside north beach municipal corridor",
+  "lat": 46.0175,
+  "lon": -123.929,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seaside-north-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Seaside south beach municipal corridor",
+  "lat": 45.985,
+  "lon": -123.9307,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seaside-south-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Gearhart beach municipal corridor",
+  "lat": 46.0363,
+  "lon": -123.9186,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gearhart-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Cannon Beach north sector municipal corridor",
+  "lat": 45.9136,
+  "lon": -123.966,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cannon-beach-north-sector-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Cannon Beach mid sector municipal corridor",
+  "lat": 45.8955,
+  "lon": -123.9628,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cannon-beach-mid-sector-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Cannon Beach Tolovana sector municipal corridor",
+  "lat": 45.8706,
+  "lon": -123.9564,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/cannon-beach-tolovana-sector-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Manzanita beach municipal corridor",
+  "lat": 45.7233,
+  "lon": -123.9343,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/manzanita-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Rockaway Beach central municipal corridor",
+  "lat": 45.6133,
+  "lon": -123.9448,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/rockaway-beach-central-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Pacific City beach municipal corridor",
+  "lat": 45.201,
+  "lon": -123.9739,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-city-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Neskowin beach municipal corridor",
+  "lat": 45.113,
+  "lon": -123.9804,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/neskowin-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Lincoln City Roads End municipal corridor",
+  "lat": 45.0109,
+  "lon": -124.0077,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lincoln-city-roads-end-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Lincoln City central beach municipal corridor",
+  "lat": 44.9758,
+  "lon": -124.0169,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lincoln-city-central-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Lincoln City Taft beach municipal corridor",
+  "lat": 44.92,
+  "lon": -124.019,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lincoln-city-taft-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Gleneden Beach municipal corridor",
+  "lat": 44.8769,
+  "lon": -124.0292,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gleneden-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Depoe Bay north pocket beaches municipal corridor",
+  "lat": 44.8127,
+  "lon": -124.0653,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/depoe-bay-north-pocket-beaches-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Rocky coast with small beach windows; verify local rules."
+ },
+ {
+  "name": "Newport Nye Beach municipal corridor",
+  "lat": 44.6394,
+  "lon": -124.0635,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/newport-nye-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Newport Agate Beach municipal corridor",
+  "lat": 44.6656,
+  "lon": -124.0665,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/newport-agate-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Waldport Alsea Spit municipal corridor",
+  "lat": 44.4235,
+  "lon": -124.0718,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/waldport-alsea-spit-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Yachats pocket beaches municipal corridor",
+  "lat": 44.3118,
+  "lon": -124.108,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/yachats-pocket-beaches-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Limited beach windows between rocky headlands; verify tides and local rules."
+ },
+ {
+  "name": "Florence North Jetty beach municipal corridor",
+  "lat": 44.0183,
+  "lon": -124.1598,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/florence-north-jetty-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Florence Heceta Beach municipal corridor",
+  "lat": 44.0554,
+  "lon": -124.1206,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/florence-heceta-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Reedsport Winchester Bay beach municipal corridor",
+  "lat": 43.6775,
+  "lon": -124.1933,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/reedsport-winchester-bay-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Lakeside Tenmile beach municipal corridor",
+  "lat": 43.5772,
+  "lon": -124.2217,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lakeside-tenmile-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Coos Bay Bastendorff Beach county corridor",
+  "lat": 43.3377,
+  "lon": -124.345,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/coos-bay-bastendorff-beach-county-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Bandon City Park beach corridor",
+  "lat": 43.1206,
+  "lon": -124.4125,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bandon-city-park-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Port Orford Battle Rock beach corridor",
+  "lat": 42.7433,
+  "lon": -124.4989,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/port-orford-battle-rock-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Gold Beach Bailey Beach municipal corridor",
+  "lat": 42.4347,
+  "lon": -124.4293,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/gold-beach-bailey-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Brookings Sporthaven Beach municipal corridor",
+  "lat": 42.0508,
+  "lon": -124.2609,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/brookings-sporthaven-beach-municipal-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances and state shore rules; fly early or late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Sand Lake OHV Area dunes open corridors",
+  "lat": 45.2975,
+  "lon": -123.9545,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sand-lake-ohv-area-dunes-open-corridors",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; fly outside pedestrian zones; avoid wildlife and overhead wires."
+ },
+ {
+  "name": "Florence South Jetty OHV Area dunes corridors",
+  "lat": 43.9429,
+  "lon": -124.1454,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/florence-south-jetty-ohv-area-dunes-corridors",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; fly outside pedestrian zones; avoid wildlife and overhead wires."
+ },
+ {
+  "name": "Siltcoos OHV Area dunes corridors",
+  "lat": 43.8188,
+  "lon": -124.1697,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/siltcoos-ohv-area-dunes-corridors",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; fly outside pedestrian zones; avoid wildlife and overhead wires."
+ },
+ {
+  "name": "Spinreel OHV Area dunes corridors",
+  "lat": 43.4947,
+  "lon": -124.2391,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/spinreel-ohv-area-dunes-corridors",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; fly outside pedestrian zones; avoid wildlife and overhead wires."
+ },
+ {
+  "name": "Bull Run OHV dunes corridors Winchester Bay",
+  "lat": 43.5989,
+  "lon": -124.2199,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bull-run-ohv-dunes-corridors-winchester-bay",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; fly outside pedestrian zones; avoid wildlife and overhead wires."
+ },
+ {
+  "name": "Horsfall OHV Area dunes corridors",
+  "lat": 43.4242,
+  "lon": -124.2665,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/horsfall-ohv-area-dunes-corridors",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; fly outside pedestrian zones; avoid wildlife and overhead wires."
+ },
+ {
+  "name": "Alvord Desert dry lake playa",
+  "lat": 42.5335,
+  "lon": -118.556,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/alvord-desert-dry-lake-playa",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Summer Lake playa north flats",
+  "lat": 42.9875,
+  "lon": -120.7776,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/summer-lake-playa-north-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Christmas Valley Sand Dunes OHV area",
+  "lat": 43.3579,
+  "lon": -120.5608,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/christmas-valley-sand-dunes-ohv-area",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils. OHV traffic; fly early."
+ },
+ {
+  "name": "Lake Abert north shore flats",
+  "lat": 42.6723,
+  "lon": -120.2094,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lake-abert-north-shore-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "East Fort Rock OHV open benches",
+  "lat": 43.74,
+  "lon": -121.163,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/east-fort-rock-ohv-open-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Steens Mountain east bench desert flats",
+  "lat": 42.737,
+  "lon": -118.561,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/steens-mountain-east-bench-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Hart Lake basin outer flats",
+  "lat": 42.553,
+  "lon": -119.5,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hart-lake-basin-outer-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Fort Rock basin desert flats",
+  "lat": 43.3567,
+  "lon": -121.066,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fort-rock-basin-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Hampton Butte basin flats",
+  "lat": 43.7,
+  "lon": -120.233,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hampton-butte-basin-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Riley sagebrush flats",
+  "lat": 43.488,
+  "lon": -119.43,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/riley-sagebrush-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert or dry lake; check for closures and protected habitat; be self-sufficient; watch for dust devils."
+ },
+ {
+  "name": "Long Beach Peninsula north municipal beaches",
+  "lat": 46.5034,
+  "lon": -124.0512,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-north-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Long Beach Peninsula central municipal beaches",
+  "lat": 46.3508,
+  "lon": -124.0551,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-central-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Long Beach Peninsula south municipal beaches",
+  "lat": 46.3017,
+  "lon": -124.0601,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-south-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Seaview municipal beaches",
+  "lat": 46.3293,
+  "lon": -124.0608,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seaview-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Park municipal beaches",
+  "lat": 46.493,
+  "lon": -124.0507,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-park-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Shores north municipal beaches",
+  "lat": 47.0178,
+  "lon": -124.1722,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-north-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Shores south municipal beaches",
+  "lat": 46.9555,
+  "lon": -124.155,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-south-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Copalis Beach municipal beaches",
+  "lat": 47.115,
+  "lon": -124.1785,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/copalis-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Pacific Beach municipal beaches",
+  "lat": 47.2051,
+  "lon": -124.2008,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-beach-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Moclips municipal beaches",
+  "lat": 47.2304,
+  "lon": -124.2071,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moclips-municipal-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Seabrook town beach corridor (public tidelands)",
+  "lat": 47.2178,
+  "lon": -124.201,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seabrook-town-beach-corridor-public-tidelands",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Westport Westhaven town beaches",
+  "lat": 46.9044,
+  "lon": -124.1189,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/westport-westhaven-town-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Grayland town beaches",
+  "lat": 46.7886,
+  "lon": -124.0941,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/grayland-town-beaches",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Birch Bay municipal beach corridor (outside state park units)",
+  "lat": 48.9177,
+  "lon": -122.7719,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/birch-bay-municipal-beach-corridor-outside-state-park-units",
+  "access": "club/contract",
+  "notes": "Sound-side municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Port Angeles Waterfront Trail lawns (city segments)",
+  "lat": 48.1222,
+  "lon": -123.4298,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/port-angeles-waterfront-trail-lawns-city-segments",
+  "access": "club/contract",
+  "notes": "Sound-side municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Vashon Island town waterfront green",
+  "lat": 47.4479,
+  "lon": -122.4631,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/vashon-island-town-waterfront-green",
+  "access": "club/contract",
+  "notes": "Sound-side municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Moses Lake Sand Dunes ORV corridors",
+  "lat": 47.0645,
+  "lon": -119.3272,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moses-lake-sand-dunes-orv-corridors",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Beverly Dunes ORV Area",
+  "lat": 46.9678,
+  "lon": -119.8395,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/beverly-dunes-orv-area",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Frenchman Hills south benches",
+  "lat": 46.9785,
+  "lon": -119.8524,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/frenchman-hills-south-benches",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Crab Creek basin desert flats",
+  "lat": 46.905,
+  "lon": -119.528,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/crab-creek-basin-desert-flats",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Wahluke Slope outer benches (outside refuge units)",
+  "lat": 46.591,
+  "lon": -119.464,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/wahluke-slope-outer-benches-outside-refuge-units",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Quincy Lakes WMA outer benches (avoid refuge cores)",
+  "lat": 47.11,
+  "lon": -119.812,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/quincy-lakes-wma-outer-benches-avoid-refuge-cores",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Royal City south benches",
+  "lat": 46.852,
+  "lon": -119.627,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/royal-city-south-benches",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Othello Columbia Basin outer benches (avoid NWR)",
+  "lat": 46.818,
+  "lon": -119.132,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/othello-columbia-basin-outer-benches-avoid-nwr",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Tri-Cities Horn Rapids outer benches",
+  "lat": 46.343,
+  "lon": -119.395,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tri-cities-horn-rapids-outer-benches",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Yerington Walker River BLM benches",
+  "lat": 38.934,
+  "lon": -119.166,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/yerington-walker-river-blm-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Fernley Dunes OHV area",
+  "lat": 39.608,
+  "lon": -119.04,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fernley-dunes-ohv-area",
+  "access": "PPG-friendly",
+  "notes": "BLM OHV dunes; heavy vehicle useâ€”fly early/late and coordinate; check closures and noise rules."
+ },
+ {
+  "name": "Reno Spanish Springs BLM flats",
+  "lat": 39.689,
+  "lon": -119.701,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/reno-spanish-springs-blm-flats",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Palomino Valley BLM benches",
+  "lat": 39.779,
+  "lon": -119.573,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/palomino-valley-blm-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Hungry Valley OHV Moon Rocks",
+  "lat": 39.725,
+  "lon": -119.664,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hungry-valley-ohv-moon-rocks",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines. Popular OHV; fly early."
+ },
+ {
+  "name": "Prison Hill OHV Carson City benches",
+  "lat": 39.142,
+  "lon": -119.743,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/prison-hill-ohv-carson-city-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Pinenut Mountains OHV benches",
+  "lat": 38.915,
+  "lon": -119.665,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pinenut-mountains-ohv-benches",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Pyramid Lake tribal shoreline segments",
+  "lat": 40.124,
+  "lon": -119.585,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pyramid-lake-tribal-shoreline-segments",
+  "access": "club/contract",
+  "notes": "Tribal land/waters; permits and tribal regulations apply; coordinate before any activity."
+ },
+ {
+  "name": "Walker River Reservation selected shoreline segments",
+  "lat": 38.935,
+  "lon": -118.726,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/walker-river-reservation-selected-shoreline-segments",
+  "access": "club/contract",
+  "notes": "Tribal land/waters; permits and tribal regulations apply; coordinate before any activity."
+ },
+ {
+  "name": "Duck Valley Reservation outer benches (coordination required)",
+  "lat": 41.826,
+  "lon": -116.124,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/duck-valley-reservation-outer-benches-coordination-required",
+  "access": "club/contract",
+  "notes": "Tribal land/waters; permits and tribal regulations apply; coordinate before any activity."
+ },
+ {
+  "name": "Hilton Head Island Burke's Beach municipal corridor",
+  "lat": 32.2107,
+  "lon": -80.6714,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hilton-head-island-burkes-beach-municipal-corridor",
+  "access": "club/contract",
+  "notes": "Municipal/private corridors; verify HOA/municipal rules; avoid turtles/wildlife."
+ },
+ {
+  "name": "Isle of Palms municipal beach corridor",
+  "lat": 32.798,
+  "lon": -79.7643,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/isle-of-palms-municipal-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Sullivan's Island municipal beach corridor",
+  "lat": 32.7652,
+  "lon": -79.8368,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sullivans-island-municipal-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Folly Beach municipal beach corridor",
+  "lat": 32.6668,
+  "lon": -79.9409,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/folly-beach-municipal-beach-corridor",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Edisto Beach municipal beach corridor (town segments)",
+  "lat": 32.4891,
+  "lon": -80.323,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/edisto-beach-municipal-beach-corridor-town-segments",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Hilton Head Island Folly Field/Islanders Beach municipal corridor",
+  "lat": 32.2194,
+  "lon": -80.6887,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hilton-head-island-folly-fieldislanders-beach-municipal-corridor",
+  "access": "club/contract",
+  "notes": "Municipal/private corridors; verify HOA/municipal rules; avoid turtles/wildlife."
+ },
+ {
+  "name": "Hilton Head Island Coligny Beach municipal corridor",
+  "lat": 32.1396,
+  "lon": -80.7505,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hilton-head-island-coligny-beach-municipal-corridor",
+  "access": "club/contract",
+  "notes": "Municipal/private corridors; verify HOA/municipal rules; avoid turtles/wildlife."
+ },
+ {
+  "name": "Fripp Island private beach access permission required",
+  "lat": 32.3338,
+  "lon": -80.4626,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fripp-island-private-beach-access-permission-required",
+  "access": "club/contract",
+  "notes": "Municipal/private corridors; verify HOA/municipal rules; avoid turtles/wildlife."
+ },
+ {
+  "name": "Hunting Island public beach segments (outside SP) verify",
+  "lat": 32.3498,
+  "lon": -80.4499,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hunting-island-public-beach-segments-outside-sp-verify",
+  "access": "club/contract",
+  "notes": "Municipal/private corridors; verify HOA/municipal rules; avoid turtles/wildlife."
+ },
+ {
+  "name": "Long Beach north approach block",
+  "lat": 46.4836,
+  "lon": -124.0489,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-north-approach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Long Beach Bolstad approach block",
+  "lat": 46.3535,
+  "lon": -124.0626,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-bolstad-approach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Long Beach Cranberry approach block",
+  "lat": 46.3239,
+  "lon": -124.0719,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-cranberry-approach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Seaview 38thâ€“Sid Snyder beach block",
+  "lat": 46.3286,
+  "lon": -124.0665,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seaview-38thsid-snyder-beach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Ocean Park Klipsan beach block",
+  "lat": 46.4687,
+  "lon": -124.0479,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-park-klipsan-beach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Ocean Shores Damon Point east block (tidal flats edge)",
+  "lat": 46.9379,
+  "lon": -124.1063,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-damon-point-east-block-tidal-flats-edge",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Ocean Shores Chance A La Mer beach block",
+  "lat": 46.9881,
+  "lon": -124.1685,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-chance-a-la-mer-beach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Ocean Shores Oyhut south beach block",
+  "lat": 46.9289,
+  "lon": -124.1556,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-oyhut-south-beach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Pacific Beach Moclips north beach block",
+  "lat": 47.2217,
+  "lon": -124.2057,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-beach-moclips-north-beach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Pacific Beach Seabrook south beach block",
+  "lat": 47.2114,
+  "lon": -124.1972,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-beach-seabrook-south-beach-block",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Copalis tidelands vicinity beach block (no airport ops)",
+  "lat": 47.1282,
+  "lon": -124.1846,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/copalis-tidelands-vicinity-beach-block-no-airport-ops",
+  "access": "PPG-friendly",
+  "notes": "Municipal/town beach block; verify local ordinances and tides; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Edmonds Marina Beach south block",
+  "lat": 47.807,
+  "lon": -122.3893,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/edmonds-marina-beach-south-block",
+  "access": "club/contract",
+  "notes": "Sound-side waterfront lawns/shore; verify municipal/port rules; avoid private docks and wildlife."
+ },
+ {
+  "name": "Shoreline Richmond Beach upper lawns",
+  "lat": 47.7639,
+  "lon": -122.3908,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/shoreline-richmond-beach-upper-lawns",
+  "access": "club/contract",
+  "notes": "Sound-side waterfront lawns/shore; verify municipal/port rules; avoid private docks and wildlife."
+ },
+ {
+  "name": "Des Moines Beach Park south block",
+  "lat": 47.3921,
+  "lon": -122.3205,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/des-moines-beach-park-south-block",
+  "access": "club/contract",
+  "notes": "Sound-side waterfront lawns/shore; verify municipal/port rules; avoid private docks and wildlife."
+ },
+ {
+  "name": "Moses Lake Sand Dunes west bowl corridors",
+  "lat": 47.051,
+  "lon": -119.329,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moses-lake-sand-dunes-west-bowl-corridors",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Beverly Dunes east bench",
+  "lat": 46.9688,
+  "lon": -119.8318,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/beverly-dunes-east-bench",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Saddle Mountain south fans (west)",
+  "lat": 46.772,
+  "lon": -119.726,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/saddle-mountain-south-fans-west",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Saddle Mountain south fans (central)",
+  "lat": 46.7905,
+  "lon": -119.662,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/saddle-mountain-south-fans-central",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Frenchman Hills west flats",
+  "lat": 46.9664,
+  "lon": -119.9098,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/frenchman-hills-west-flats",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Frenchman Hills east flats",
+  "lat": 46.9813,
+  "lon": -119.8025,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/frenchman-hills-east-flats",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Quincy Lakes south benches (outside refuge cores)",
+  "lat": 47.1054,
+  "lon": -119.8686,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/quincy-lakes-south-benches-outside-refuge-cores",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Royal Slope south benches (west)",
+  "lat": 46.8826,
+  "lon": -119.7179,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/royal-slope-south-benches-west",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Horn Rapids Yakima River benches",
+  "lat": 46.3532,
+  "lon": -119.3939,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/horn-rapids-yakima-river-benches",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Schell Creek Valley outer benches",
+  "lat": 39.469,
+  "lon": -114.745,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/schell-creek-valley-outer-benches-86b48b",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Eureka Diamond Valley basin flats",
+  "lat": 39.709,
+  "lon": -115.961,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/eureka-diamond-valley-basin-flats-4aeae1",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Austin Reese River Valley benches",
+  "lat": 39.431,
+  "lon": -117.074,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/austin-reese-river-valley-benches-64eec0",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Tonopah Cactus Flat benches",
+  "lat": 38.034,
+  "lon": -116.072,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tonopah-cactus-flat-benches-be6ad8",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Hawthorne Alkali Lake flats",
+  "lat": 38.623,
+  "lon": -118.704,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hawthorne-alkali-lake-flats-79a330",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Smith Valley Wellington benches",
+  "lat": 38.77,
+  "lon": -119.383,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/smith-valley-wellington-benches-70117e",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Yerington Walker River BLM benches",
+  "lat": 38.934,
+  "lon": -119.166,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/yerington-walker-river-blm-benches-8d749e",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Fernley Dunes OHV area",
+  "lat": 39.608,
+  "lon": -119.04,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/fernley-dunes-ohv-area-f466e8",
+  "access": "PPG-friendly",
+  "notes": "BLM OHV dunes; heavy vehicle useâ€”fly early/late and coordinate; check closures and noise rules."
+ },
+ {
+  "name": "Reno Spanish Springs BLM flats",
+  "lat": 39.689,
+  "lon": -119.701,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/reno-spanish-springs-blm-flats-05c7ac",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Palomino Valley BLM benches",
+  "lat": 39.779,
+  "lon": -119.573,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/palomino-valley-blm-benches-35a0f1",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Hungry Valley OHV Moon Rocks",
+  "lat": 39.725,
+  "lon": -119.664,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/hungry-valley-ohv-moon-rocks-1e747d",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines. Popular OHV; fly early."
+ },
+ {
+  "name": "Prison Hill OHV Carson City benches",
+  "lat": 39.142,
+  "lon": -119.743,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/prison-hill-ohv-carson-city-benches-ac0b23",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Pinenut Mountains OHV benches",
+  "lat": 38.915,
+  "lon": -119.665,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pinenut-mountains-ohv-benches-bdb3c2",
+  "access": "PPG-friendly",
+  "notes": "BLM desert/open flats; verify local rules and temporary closures; fly early/late; avoid wildlife areas and powerlines."
+ },
+ {
+  "name": "Pyramid Lake tribal shoreline segments",
+  "lat": 40.124,
+  "lon": -119.585,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pyramid-lake-tribal-shoreline-segments-4a64d9",
+  "access": "club/contract",
+  "notes": "Tribal land/waters; permits and tribal regulations apply; coordinate before any activity."
+ },
+ {
+  "name": "Walker River Reservation selected shoreline segments",
+  "lat": 38.935,
+  "lon": -118.726,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/walker-river-reservation-selected-shoreline-segments-2e855f",
+  "access": "club/contract",
+  "notes": "Tribal land/waters; permits and tribal regulations apply; coordinate before any activity."
+ },
+ {
+  "name": "Duck Valley Reservation outer benches (coordination required)",
+  "lat": 41.826,
+  "lon": -116.124,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/duck-valley-reservation-outer-benches-coordination-required-e1054b",
+  "access": "club/contract",
+  "notes": "Tribal land/waters; permits and tribal regulations apply; coordinate before any activity."
+ },
+ {
+  "name": "Seaview municipal beaches",
+  "lat": 46.3293,
+  "lon": -124.0608,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seaview-municipal-beaches-a43809",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Park municipal beaches",
+  "lat": 46.493,
+  "lon": -124.0507,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-park-municipal-beaches-20479c",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Long Beach Peninsula north municipal beaches",
+  "lat": 46.5034,
+  "lon": -124.0512,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-north-municipal-beaches-e93028",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Long Beach Peninsula central municipal beaches",
+  "lat": 46.3508,
+  "lon": -124.0551,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-central-municipal-beaches-908c9a",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Long Beach Peninsula south municipal beaches",
+  "lat": 46.3017,
+  "lon": -124.0601,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-south-municipal-beaches-d806ca",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Shores north municipal beaches",
+  "lat": 47.0178,
+  "lon": -124.1722,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-north-municipal-beaches-3a61ed",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Ocean Shores south municipal beaches",
+  "lat": 46.9555,
+  "lon": -124.155,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-south-municipal-beaches-5f268d",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Copalis Beach municipal beaches",
+  "lat": 47.115,
+  "lon": -124.1785,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/copalis-beach-municipal-beaches-a724b9",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Pacific Beach municipal beaches",
+  "lat": 47.2051,
+  "lon": -124.2008,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-beach-municipal-beaches-c02f9d",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Moclips municipal beaches",
+  "lat": 47.2304,
+  "lon": -124.2071,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moclips-municipal-beaches-ee16fa",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Seabrook town beach corridor (public tidelands)",
+  "lat": 47.2178,
+  "lon": -124.201,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seabrook-town-beach-corridor-public-tidelands-22722a",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Westport Westhaven town beaches",
+  "lat": 46.9044,
+  "lon": -124.1189,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/westport-westhaven-town-beaches-b1f62f",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Grayland town beaches",
+  "lat": 46.7886,
+  "lon": -124.0941,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/grayland-town-beaches-5a01f0",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Birch Bay municipal beach corridor (outside state park units)",
+  "lat": 48.9177,
+  "lon": -122.7719,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/birch-bay-municipal-beach-corridor-outside-state-park-units-4110a1",
+  "access": "club/contract",
+  "notes": "Sound-side municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Port Angeles Waterfront Trail lawns (city segments)",
+  "lat": 48.1222,
+  "lon": -123.4298,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/port-angeles-waterfront-trail-lawns-city-segments-248024",
+  "access": "club/contract",
+  "notes": "Sound-side municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Vashon Island town waterfront green",
+  "lat": 47.4479,
+  "lon": -122.4631,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/vashon-island-town-waterfront-green-7edfd5",
+  "access": "club/contract",
+  "notes": "Sound-side municipal/county shoreline access; verify local rules; avoid private docks and wildlife areas."
+ },
+ {
+  "name": "Moses Lake Sand Dunes ORV corridors",
+  "lat": 47.0645,
+  "lon": -119.3272,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moses-lake-sand-dunes-orv-corridors-5da713",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Beverly Dunes ORV Area",
+  "lat": 46.9678,
+  "lon": -119.8395,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/beverly-dunes-orv-area-4fa177",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Frenchman Hills south benches",
+  "lat": 46.9785,
+  "lon": -119.8524,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/frenchman-hills-south-benches-ef72d5",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Crab Creek basin desert flats",
+  "lat": 46.905,
+  "lon": -119.528,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/crab-creek-basin-desert-flats-c1b70d",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Wahluke Slope outer benches (outside refuge units)",
+  "lat": 46.591,
+  "lon": -119.464,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/wahluke-slope-outer-benches-outside-refuge-units-177540",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Quincy Lakes WMA outer benches (avoid refuge cores)",
+  "lat": 47.11,
+  "lon": -119.812,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/quincy-lakes-wma-outer-benches-avoid-refuge-cores-2836be",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Royal City south benches",
+  "lat": 46.852,
+  "lon": -119.627,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/royal-city-south-benches-dc6e22",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Othello Columbia Basin outer benches (avoid NWR)",
+  "lat": 46.818,
+  "lon": -119.132,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/othello-columbia-basin-outer-benches-avoid-nwr-c1502a",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Tri-Cities Horn Rapids outer benches",
+  "lat": 46.343,
+  "lon": -119.395,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/tri-cities-horn-rapids-outer-benches-3f5ee2",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Seaside south beach municipal corridor",
+  "lat": 45.985,
+  "lon": -123.9307,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/seaside-south-beach-municipal-corridor-dd4092",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Manzanita beach municipal corridor",
+  "lat": 45.7233,
+  "lon": -123.9343,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/manzanita-beach-municipal-corridor-e0cd3f",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Pacific City beach municipal corridor",
+  "lat": 45.201,
+  "lon": -123.9739,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-city-beach-municipal-corridor-38ccdf",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Lincoln City central beach municipal corridor",
+  "lat": 44.9758,
+  "lon": -124.0169,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/lincoln-city-central-beach-municipal-corridor-d4b0a4",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Newport Nye Beach municipal corridor",
+  "lat": 44.6394,
+  "lon": -124.0635,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/newport-nye-beach-municipal-corridor-07b2ee",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Florence Heceta Beach municipal corridor",
+  "lat": 44.0554,
+  "lon": -124.1206,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/florence-heceta-beach-municipal-corridor-03924f",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Coos Bay Bastendorff Beach county corridor",
+  "lat": 43.3377,
+  "lon": -124.345,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/coos-bay-bastendorff-beach-county-corridor-1b84c4",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Bandon City Park beach corridor",
+  "lat": 43.1206,
+  "lon": -124.4125,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/bandon-city-park-beach-corridor-62db9e",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances/state shore rules; fly early/late; avoid crowds and wildlife."
+ },
+ {
+  "name": "Sand Lake OHV Area dunes open corridors",
+  "lat": 45.2975,
+  "lon": -123.9545,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/sand-lake-ohv-area-dunes-open-corridors-69dd2e",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; heavy OHV trafficâ€”fly early; avoid wildlife/pedestrian zones."
+ },
+ {
+  "name": "Florence South Jetty OHV Area dunes corridors",
+  "lat": 43.9429,
+  "lon": -124.1454,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/florence-south-jetty-ohv-area-dunes-corridors-5446f2",
+  "access": "PPG-friendly",
+  "notes": "USFS Oregon Dunes OHV area; verify site rules and closures; heavy OHV trafficâ€”fly early; avoid wildlife/pedestrian zones."
+ },
+ {
+  "name": "Long Beach Peninsula central municipal beaches",
+  "lat": 46.3508,
+  "lon": -124.0551,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/long-beach-peninsula-central-municipal-beaches-86dba8",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Ocean Shores north municipal beaches",
+  "lat": 47.0178,
+  "lon": -124.1722,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/ocean-shores-north-municipal-beaches-0530e2",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Pacific Beach municipal beaches",
+  "lat": 47.2051,
+  "lon": -124.2008,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/pacific-beach-municipal-beaches-7d265a",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Westport Westhaven town beaches",
+  "lat": 46.9044,
+  "lon": -124.1189,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/westport-westhaven-town-beaches-7e0529",
+  "access": "PPG-friendly",
+  "notes": "Municipal beach corridor; verify local ordinances; fly early/late; avoid wildlife."
+ },
+ {
+  "name": "Moses Lake Sand Dunes ORV corridors",
+  "lat": 47.0645,
+  "lon": -119.3272,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/moses-lake-sand-dunes-orv-corridors-4a71e4",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ },
+ {
+  "name": "Beverly Dunes ORV Area",
+  "lat": 46.9678,
+  "lon": -119.8395,
+  "source": "WingVoyagers",
+  "url": "https://www.wingvoyagers.com/flying-spots/beverly-dunes-orv-area-590494",
+  "access": "PPG-friendly",
+  "notes": "DNR/BLM desert benches or OHV area; check land status and closures; fly early; avoid wildlife and powerlines."
+ }
+]

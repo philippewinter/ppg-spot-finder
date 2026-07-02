@@ -1,0 +1,10 @@
+services:
+  ppg-spot-finder:
+    build:
+      context: ..            # project root, so the Dockerfile can copy the HTML
+      dockerfile: deploy/Dockerfile
+    image: ppg-spot-finder:latest
+    container_name: ppg-spot-finder
+    restart: unless-stopped
+    ports:
+      - "8085:80"            # host:container — change 8085 if that port is taken

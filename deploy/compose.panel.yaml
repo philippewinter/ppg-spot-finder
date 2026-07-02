@@ -1,0 +1,30 @@
+# Paste into your Dokploy/Coolify "Compose" editor.
+#
+# Option 1 (Git deploy — recommended): point the panel at your GitHub repo,
+#   which contains this file + the Dockerfile + PPG-Spot-Finder.html. Keep the
+#   `build:` block below. The panel builds the image from source.
+#
+# Option 2 (no Git): comment out the `build:` block, uncomment the `image:` +
+#   `volumes:` block, and upload PPG-Spot-Finder.html to the server so the
+#   mount path resolves.
+#
+# After deploying: in the panel open this service's Domains tab, add your
+# domain (e.g. ppg.yourdomain.com), set the container PORT to 80, and enable
+# HTTPS / Let's Encrypt. The panel injects the correct Traefik labels for you —
+# do not hardcode them here.
+
+services:
+  ppg-spot-finder:
+    # --- Option 1: build from repo (Dockerfile copies the HTML) ---
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile
+
+    # --- Option 2: prebuilt nginx + uploaded file (comment out build: above) ---
+    # image: nginx:alpine
+    # volumes:
+    #   - ./PPG-Spot-Finder.html:/usr/share/nginx/html/index.html:ro
+
+    restart: unless-stopped
+    expose:
+      - "80"     # internal only; the panel's proxy (Traefik) routes to this

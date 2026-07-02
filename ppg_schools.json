@@ -1,0 +1,18 @@
+[
+  {"name": "BlackHawk Paramotors USA", "country": "US", "lat": 38.16584, "lon": -120.79197, "url": "https://blackhawkparamotor.com", "field": "BlackHawk Ranch field, Valley Springs, CA", "accuracy": "field"},
+  {"name": "Aviator PPG", "country": "US", "lat": 27.89380, "lon": -81.62041, "url": "https://aviatorppg.com", "field": "Lake Wales Municipal Airport (X07), FL", "accuracy": "field"},
+  {"name": "Lone Star Paramotor", "country": "US", "lat": 29.62476, "lon": -98.28077, "url": "https://lonestarparamotor.com", "field": "Kitty Hawk Ultralight Field (TS67), San Antonio, TX", "accuracy": "field"},
+  {"name": "Summit Soaring PPG", "country": "US", "lat": 40.35722, "lon": -112.01778, "url": "https://summitsoaringppg.com", "field": "Cedar Valley Airport (UT10), Eagle Mountain, UT", "accuracy": "field"},
+  {"name": "SkySchool UK", "country": "GB", "lat": 52.02756, "lon": -1.20778, "url": "https://www.skyschooluk.com", "field": "Hinton-in-the-Hedges Airfield (summer base)", "accuracy": "field"},
+  {"name": "SkySchool Spain", "country": "ES", "lat": 36.80976, "lon": -5.73997, "url": "https://www.skyschooluk.com/pages/learn-paramotoring-spain", "field": "Lake Bornos flying site, Cádiz", "accuracy": "field"},
+  {"name": "Paramotor Training Ltd", "country": "GB", "lat": 51.49560, "lon": -1.53360, "url": "https://www.paramotortraining.com", "field": "Membury Airfield, near Swindon", "accuracy": "verify"},
+  {"name": "Parascendance", "country": "FR", "lat": 44.56624, "lon": -0.05231, "url": "http://www.parascendance.fr", "field": "Aérodrome de La Réole-Floudès, Gironde", "accuracy": "field"},
+  {"name": "Westallgäuer Flugschule", "country": "DE", "lat": 47.60000, "lon": 9.74167, "url": "https://www.ich-will-fliegen.de", "field": "Flugplatz Wildberg, Weissensberg (Bodensee)", "accuracy": "field"},
+  {"name": "Papillon Paragliding (Motorschirm)", "country": "DE", "lat": 51.80667, "lon": 9.37833, "url": "https://papillon.de", "field": "Flugplatz Höxter-Holzminden (EDVI)", "accuracy": "field"},
+  {"name": "High Adventure", "country": "AU", "lat": -31.65330, "lon": 152.79820, "url": "https://www.highadventure.com.au", "field": "Laurieton base, Camden Haven, NSW (multi-site)", "accuracy": "approx"},
+  {"name": "Tribal Flight", "country": "AU", "lat": -27.41851, "lon": 152.40257, "url": "https://tribalflight.com.au", "field": "Atkinsons Dam airstrip, QLD", "accuracy": "verify"},
+  {"name": "Aéreas Escola de Paramotor", "country": "BR", "lat": -22.86000, "lon": -42.55000, "url": "https://vivaaereas.com.br", "field": "Interior Saquarema, RJ", "accuracy": "approx"},
+  {"name": "NoAr Escola de Voo Livre e Paramotor", "country": "BR", "lat": -26.63000, "lon": -48.68000, "url": "http://noarescola.com.br", "field": "Barra Velha area, SC", "accuracy": "approx"},
+  {"name": "ParamotorMadrid", "country": "ES", "lat": 40.48680, "lon": -4.04937, "url": "https://paramotormadrid.org", "field": "Aeródromo de Valdemorillo (paramotor-exclusive), Madrid", "accuracy": "field"},
+  {"name": "Escuela Vasca de Parapente (paramotor)", "country": "ES", "lat": 42.90000, "lon": -2.33000, "url": "https://escuelavascadeparapente.com", "field": "Zalduondo flying field, Álava", "accuracy": "approx"}
+]

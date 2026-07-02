@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PPG Spot Finder</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+  :root {
+    --bg: #0f172a; --panel: #1e293b; --panel2: #273449; --text: #e2e8f0;
+    --muted: #94a3b8; --accent: #38bdf8;
+    --xc: #38bdf8;      /* XContest - blue */
+    --wv: #4ade80;      /* WingVoyagers - green */
+    --ba: #f59e0b;      /* BASULM - amber */
+    --sc: #c084fc;      /* PPG Schools - purple */
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); height: 100vh; display: flex; flex-direction: column; }
+  header { padding: 10px 16px; background: var(--panel); display: flex; gap: 12px; align-items: center; flex-wrap: wrap; border-bottom: 1px solid #334155; }
+  header h1 { font-size: 16px; font-weight: 600; margin-right: 8px; }
+  header h1 span { color: var(--accent); }
+  input#icao { background: var(--panel2); border: 1px solid #475569; color: var(--text); padding: 8px 10px; border-radius: 8px; font-size: 15px; width: 90px; text-transform: uppercase; letter-spacing: 1px; }
+  input#icao:focus { outline: none; border-color: var(--accent); }
+  .radius-wrap { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+  input[type=range] { accent-color: var(--accent); }
+  button { background: var(--accent); border: none; color: #082f49; font-weight: 600; padding: 8px 16px; border-radius: 8px; font-size: 14px; cursor: pointer; }
+  button:hover { filter: brightness(1.1); }
+  #status { font-size: 13px; color: var(--muted); }
+  #status.err { color: #f87171; }
+  .filters { display: flex; gap: 14px; align-items: center; font-size: 12px; }
+  .filters label { display: flex; align-items: center; gap: 5px; cursor: pointer; color: var(--muted); }
+  .filters input { accent-color: var(--accent); }
+  .src-chip { display: inline-block; width: 9px; height: 9px; border-radius: 50%; }
+  main { flex: 1; display: flex; min-height: 0; }
+  #map { flex: 1; }
+  #sidebar { width: 380px; overflow-y: auto; background: var(--panel); border-left: 1px solid #334155; }
+  .spot { padding: 10px 14px; border-bottom: 1px solid #33415555; cursor: pointer; }
+  .spot:hover { background: var(--panel2); }
+  .spot .name { font-weight: 600; font-size: 14px; display: flex; align-items: center; gap: 7px; }
+  .spot .meta { font-size: 12px; color: var(--muted); margin-top: 4px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .badge { font-size: 10px; font-weight: 600; padding: 1px 6px; border-radius: 4px; color: #0b1220; white-space: nowrap; }
+  .spot a { color: var(--accent); text-decoration: none; }
+  #empty { padding: 24px 16px; color: var(--muted); font-size: 13px; line-height: 1.6; }
+  .legend { padding: 8px 14px; font-size: 11px; color: var(--muted); border-bottom: 1px solid #334155; display: flex; gap: 14px; flex-wrap: wrap; }
+  .legend span { display: flex; align-items: center; gap: 5px; }
+  .stale { opacity: 0.45; }
+  @media (max-width: 800px) { main { flex-direction: column; } #sidebar { width: 100%; max-height: 45%; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>PPG <span>Spot Finder</span></h1>
+  <input id="icao" placeholder="ICAO" maxlength="4" autofocus>
+  <div class="radius-wrap">
+    <input type="range" id="radius" min="10" max="300" step="10" value="100">
+    <span id="radiusLabel">100 km</span>
+  </div>
+  <button onclick="search()">Search</button>
+  <div class="filters">
+    <label><input type="checkbox" class="srcf" value="XContest" checked><span class="src-chip" style="background:var(--xc)"></span>XContest</label>
+    <label><input type="checkbox" class="srcf" value="WingVoyagers" checked><span class="src-chip" style="background:var(--wv)"></span>WingVoyagers</label>
+    <label><input type="checkbox" class="srcf" value="BASULM" checked><span class="src-chip" style="background:var(--ba)"></span>BASULM</label>
+    <label><input type="checkbox" class="srcf" value="PPGSchool" checked><span class="src-chip" style="background:var(--sc)"></span>Schools</label>
+  </div>
+  <span id="status">__SPOT_COUNT__ spots loaded · data: __BUILD_DATE__</span>
+</header>
+<main>
+  <div id="map"></div>
+  <div id="sidebar">
+    <div class="legend">
+      <span><span class="src-chip" style="background:var(--xc)"></span>XContest — logged PPG flights</span>
+      <span><span class="src-chip" style="background:var(--wv)"></span>WingVoyagers — PPG community</span>
+      <span><span class="src-chip" style="background:var(--ba)"></span>BASULM — FR ULM terrains</span>
+      <span><span class="src-chip" style="background:var(--sc)"></span>Schools — PPG training fields</span>
+      <span class="stale"><span class="src-chip" style="background:#64748b"></span>faded = no activity &gt; 2 yrs</span>
+    </div>
+    <div id="results"><div id="empty">Enter an ICAO code (e.g. EDDM, KJFK, LKPR) and hit Search.<br><br>Spots are paramotor takeoff/landing locations — actual logged PPG flights (XContest), PPG-friendly community spots (WingVoyagers), and official French ULM terrains (BASULM). No free-flight/paragliding-only sites.</div></div>
+  </div>
+</main>
+<script>
+const AIRPORTS = __AIRPORTS__;
+const SPOTS = __SPOTS__;
+
+const SRC_COLOR = { XContest: '#38bdf8', WingVoyagers: '#4ade80', BASULM: '#f59e0b', PPGSchool: '#c084fc' };
+// a spot's primary source = first listed in its "A+B" source string
+const primarySrc = s => s.source.split('+')[0];
+const srcColor = s => SRC_COLOR[primarySrc(s)] || '#94a3b8';
+
+const map = L.map('map').setView([30, 0], 2);
+const streets = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OpenStreetMap contributors &copy; CARTO', maxZoom: 20, subdomains: 'abcd'
+}).addTo(map);
+const satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  attribution: 'Imagery &copy; Esri', maxZoom: 19
+});
+L.control.layers({ 'Map': streets, 'Satellite': satellite }).addTo(map);
+
+let layerGroup = L.layerGroup().addTo(map);
+let lastAirport = null;
+
+document.getElementById('radius').addEventListener('input', e => {
+  document.getElementById('radiusLabel').textContent = e.target.value + ' km';
+});
+document.getElementById('icao').addEventListener('keydown', e => { if (e.key === 'Enter') search(); });
+document.querySelectorAll('.srcf').forEach(cb => cb.addEventListener('change', () => { if (lastAirport) search(); }));
+
+function activeSources() {
+  return new Set([...document.querySelectorAll('.srcf:checked')].map(c => c.value));
+}
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 6371, toRad = d => d * Math.PI / 180;
+  const dLat = toRad(lat2 - lat1), dLon = toRad(lon2 - lon1);
+  const a = Math.sin(dLat/2)**2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+function bearing(lat1, lon1, lat2, lon2) {
+  const toRad = d => d * Math.PI / 180;
+  const y = Math.sin(toRad(lon2-lon1)) * Math.cos(toRad(lat2));
+  const x = Math.cos(toRad(lat1))*Math.sin(toRad(lat2)) - Math.sin(toRad(lat1))*Math.cos(toRad(lat2))*Math.cos(toRad(lon2-lon1));
+  const deg = (Math.atan2(y, x) * 180 / Math.PI + 360) % 360;
+  return ['N','NE','E','SE','S','SW','W','NW'][Math.round(deg / 45) % 8];
+}
+function isStale(s) {
+  if (!s.last) return false;               // no date (e.g. WingVoyagers) → not marked stale
+  return (Date.now() - new Date(s.last)) / 86400000 > 730;
+}
+function badges(s) {
+  return s.source.split('+').map(src =>
+    `<span class="badge" style="background:${SRC_COLOR[src]||'#94a3b8'}">${src}</span>`
+  ).join(' ');
+}
+
+function search() {
+  const code = document.getElementById('icao').value.trim().toUpperCase();
+  const status = document.getElementById('status');
+  const ap = AIRPORTS[code];
+  if (!ap) { status.textContent = 'Unknown ICAO code: ' + code; status.className = 'err'; return; }
+  status.className = '';
+  lastAirport = ap;
+  const [alat, alon, aname] = ap;
+  const radiusKm = +document.getElementById('radius').value;
+  const srcs = activeSources();
+
+  const hits = SPOTS
+    .filter(s => s.source.split('+').some(x => srcs.has(x)))
+    .map(s => ({ ...s, dist: haversine(alat, alon, s.lat, s.lon), dir: bearing(alat, alon, s.lat, s.lon) }))
+    .filter(s => s.dist <= radiusKm)
+    .sort((a, b) => a.dist - b.dist);
+
+  status.textContent = `${aname} — ${hits.length} spot${hits.length === 1 ? '' : 's'} within ${radiusKm} km`;
+
+  layerGroup.clearLayers();
+  const circ = L.circle([alat, alon], { radius: radiusKm * 1000, color: '#38bdf8', weight: 1.5, fillOpacity: 0.05 }).addTo(layerGroup);
+  L.marker([alat, alon]).addTo(layerGroup).bindPopup(`<b>${code}</b> ${aname}`);
+  map.fitBounds(circ.getBounds().pad(0.05));
+
+  const results = document.getElementById('results');
+  results.innerHTML = hits.length ? '' : '<div id="empty">No PPG spots in this radius for the selected sources. Try a larger radius or enable more sources.</div>';
+
+  hits.forEach(s => {
+    const col = srcColor(s), stale = isStale(s);
+    const gmaps = `https://www.google.com/maps?q=${s.lat},${s.lon}`;
+    const info = [
+      s.flights ? `${s.flights} flights` : null,
+      s.last ? `last: ${s.last}` : null,
+      s.info || null
+    ].filter(Boolean).join(' · ');
+    const m = L.circleMarker([s.lat, s.lon], {
+        radius: 7, color: col, fillColor: col, fillOpacity: stale ? 0.35 : 0.85, weight: 1
+      })
+      .addTo(layerGroup)
+      .bindPopup(`<b>${s.name}</b><br>${s.dist.toFixed(1)} km ${s.dir} · ${s.source}<br>${info || ''}<br><a href="${gmaps}" target="_blank">📍 Open location ↗</a>${s.url ? ` · <a href="${s.url}" target="_blank">source page ↗</a>` : ''}`);
+    const div = document.createElement('div');
+    div.className = 'spot' + (stale ? ' stale' : '');
+    div.innerHTML = `<div class="name"><span class="src-chip" style="background:${col}"></span>${s.name}</div>
+      <div class="meta">
+        <span>${s.dist.toFixed(1)} km ${s.dir}</span>
+        ${s.flights ? `<span>${s.flights} flights</span>` : ''}
+        ${s.last ? `<span>last: ${s.last}</span>` : ''}
+        ${s.info ? `<span>${s.info}</span>` : ''}
+        ${badges(s)}
+        <a href="${gmaps}" target="_blank" onclick="event.stopPropagation()">📍 Open location ↗</a>
+        ${s.url ? `<a href="${s.url}" target="_blank" onclick="event.stopPropagation()">source page ↗</a>` : ''}
+      </div>`;
+    div.onclick = () => { map.setView([s.lat, s.lon], 13); m.openPopup(); };
+    results.appendChild(div);
+  });
+}
+</script>
+</body>
+</html>
