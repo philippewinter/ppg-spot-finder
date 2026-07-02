@@ -64,6 +64,9 @@ def basulm_excluded(text):
     #   glider strip (vélisurface), helipad (hélistation)
     if re.search(r"hydro|altisurface|altiport|vélisurface|velisurface|hélistation|helistation", a):
         return True
+    # fields requiring mandatory prior authorization (can't just show up and fly)
+    if re.search(r"autorisation obligatoire", a):
+        return True
     return False
 
 ba = json.load(open(ROOT/"basulm_terrains.json"))
