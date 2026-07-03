@@ -45,6 +45,7 @@
   .legend { padding: 8px 14px; font-size: 11px; color: var(--muted); border-bottom: 1px solid #334155; display: flex; gap: 14px; flex-wrap: wrap; }
   .legend span { display: flex; align-items: center; gap: 5px; }
   .stale { opacity: 0.45; }
+  .faint { opacity: 0.4; }
   @media (max-width: 800px) { main { flex-direction: column; } #sidebar { width: 100%; max-height: 45%; } }
 </style>
 </head>
@@ -55,6 +56,11 @@
   <div class="radius-wrap">
     <input type="range" id="radius" min="10" max="300" step="10" value="100">
     <span id="radiusLabel">100 km</span>
+  </div>
+  <div class="radius-wrap" title="Esconde spots do XContest com menos voos que o mínimo — mais voos = campo mais comprovado">
+    <span>min. voos</span>
+    <input type="range" id="minflights" min="1" max="10" step="1" value="1">
+    <span id="minflightsLabel">1</span>
   </div>
   <button onclick="search()">Search</button>
   <div class="filters">
@@ -104,10 +110,16 @@ document.getElementById('radius').addEventListener('input', e => {
 });
 document.getElementById('icao').addEventListener('keydown', e => { if (e.key === 'Enter') search(); });
 document.querySelectorAll('.srcf').forEach(cb => cb.addEventListener('change', () => { if (lastAirport) search(); }));
+document.getElementById('minflights').addEventListener('input', e => {
+  document.getElementById('minflightsLabel').textContent = e.target.value;
+  if (lastAirport) search();
+});
 
 function activeSources() {
   return new Set([...document.querySelectorAll('.srcf:checked')].map(c => c.value));
 }
+// pure-XContest spot with a known flight count (used for the "min. voos" filter)
+const isPureXC = s => s.source.split('+').every(x => x === 'XContest');
 function haversine(lat1, lon1, lat2, lon2) {
   const R = 6371, toRad = d => d * Math.PI / 180;
   const dLat = toRad(lat2 - lat1), dLon = toRad(lon2 - lon1);
@@ -140,10 +152,14 @@ function search() {
   lastAirport = ap;
   const [alat, alon, aname] = ap;
   const radiusKm = +document.getElementById('radius').value;
+  const minF = +document.getElementById('minflights').value;
   const srcs = activeSources();
 
   const hits = SPOTS
     .filter(s => s.source.split('+').some(x => srcs.has(x)))
+    // "min. voos": only filters pure-XContest spots by their flight count;
+    // curated sources (WingVoyagers/BASULM/Schools, or any merged spot) always pass
+    .filter(s => !isPureXC(s) || (s.flights || 0) >= minF)
     .map(s => ({ ...s, dist: haversine(alat, alon, s.lat, s.lon), dir: bearing(alat, alon, s.lat, s.lon) }))
     .filter(s => s.dist <= radiusKm)
     .sort((a, b) => a.dist - b.dist);
@@ -160,6 +176,8 @@ function search() {
 
   hits.forEach(s => {
     const col = srcColor(s), stale = isStale(s);
+    // single-flight XContest spots are lower-confidence (often GPS start-point noise) → shown faded
+    const faint = isPureXC(s) && (s.flights || 0) === 1;
     const gmaps = `https://www.google.com/maps?q=${s.lat},${s.lon}`;
     const info = [
       s.flights ? `${s.flights} flights` : null,
@@ -167,12 +185,13 @@ function search() {
       s.info || null
     ].filter(Boolean).join(' · ');
     const m = L.circleMarker([s.lat, s.lon], {
-        radius: 7, color: col, fillColor: col, fillOpacity: stale ? 0.35 : 0.85, weight: 1
+        radius: faint ? 5 : 7, color: col, fillColor: col,
+        fillOpacity: (stale || faint) ? 0.3 : 0.85, weight: 1
       })
       .addTo(layerGroup)
       .bindPopup(`<b>${s.name}</b><br>${s.dist.toFixed(1)} km ${s.dir} · ${s.source}<br>${info || ''}<br><a href="${gmaps}" target="_blank">📍 Open location ↗</a>${s.url ? ` · <a href="${s.url}" target="_blank">source page ↗</a>` : ''}`);
     const div = document.createElement('div');
-    div.className = 'spot' + (stale ? ' stale' : '');
+    div.className = 'spot' + (stale ? ' stale' : '') + (faint ? ' faint' : '');
     div.innerHTML = `<div class="name"><span class="src-chip" style="background:${col}"></span>${s.name}</div>
       <div class="meta">
         <span>${s.dist.toFixed(1)} km ${s.dir}</span>
