@@ -28,15 +28,32 @@ def hav(a, b):
 # ---- load + normalize each source ----
 records = []
 
-# XContest
+# XContest — current seasons (2025-26) already clustered
 xc = json.load(open(ROOT/"data"/"ppg_spots_source.json"))
+xc_current = 0
 for s in xc["spots"]:
+    xc_current += 1
     records.append({
         "name": s["name"], "lat": s["lat"], "lon": s["lon"],
         "country": s.get("country"), "source": "XContest",
         "flights": s.get("flights"), "last": s.get("last"),
         "info": s.get("cat", ""), "url": None,
     })
+
+# XContest — historical seasons 2021-2024 (aggregated ~100m). Cross-dedup with
+# the current seasons happens in the clustering step below.
+xc_hist = 0
+hist_path = ROOT/"xcontest_2021_2024.json"
+if hist_path.exists():
+    for s in json.load(open(hist_path)):
+        xc_hist += 1
+        records.append({
+            "name": s["name"], "lat": s["lat"], "lon": s["lon"],
+            "country": s.get("country"), "source": "XContest",
+            "flights": s.get("flights"), "last": s.get("last"),
+            "info": s.get("cat", ""), "url": None,
+        })
+print(f"XContest: {xc_current} current + {xc_hist} historical = {xc_current+xc_hist} raw")
 
 # WingVoyagers
 wv = json.load(open(ROOT/"wingvoyagers_ppg.json"))
@@ -86,10 +103,13 @@ for s in ba:
         "info": info, "url": None,
     })
 
-# PPG Schools (school home/training fields, geocoded)
-sch_path = ROOT/"ppg_schools.json"
-sch = json.load(open(sch_path)) if sch_path.exists() else []
+# PPG Schools + clubs (home/training fields, geocoded). Combines the global
+# sample (ppg_schools.json) and the per-country school/club research (ppg_clubs.json).
 ACC_LABEL = {"field": "", "verify": "field approx — verify", "approx": "⚠ town-level (approximate)"}
+sch = []
+for fname in ("ppg_schools.json", "ppg_clubs.json"):
+    p = ROOT/fname
+    if p.exists(): sch.extend(json.load(open(p)))
 for s in sch:
     note = ACC_LABEL.get(s.get("accuracy", "field"), "")
     info = s.get("field", "")
@@ -101,9 +121,9 @@ for s in sch:
         "info": info, "url": s.get("url"),
     })
 
-print(f"Loaded: {len(xc['spots'])} XContest, {len(wv)} WingVoyagers, "
+print(f"Loaded: {xc_current+xc_hist} XContest, {len(wv)} WingVoyagers, "
       f"{ba_kept} BASULM (of {len(ba)}, dropped {len(ba)-ba_kept} forbidden/closed), "
-      f"{len(sch)} PPGSchool = {len(records)} raw")
+      f"{len(sch)} PPGSchool/clubs = {len(records)} raw")
 
 # ---- spatial grid index for fast proximity dedup ----
 CELL = 0.02  # ~2km lat; good enough as a bucket for a 0.8km search
